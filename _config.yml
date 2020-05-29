@@ -3,7 +3,8 @@ description: Ao Collaboration
 author: Ao Collaboration
 
 navbar-links:
-  About Us: "aboutus"
+  About: "aboutus"
+  Contact: "contact"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #  Author's home: "https://aocollab.tech"
@@ -23,6 +24,7 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
+  phone: "+64 210 740 420"
   email: "kate@aocollab.tech"
 #  facebook: kate
 #  github: kate
@@ -73,7 +75,7 @@ page-col: "#FFFFFF"
 #link-col: "#008AFF"
 link-col: "#3287C1"
 #hover-col: "#0085A1"
-hover-col: "#6DCDE9"
+hover-col: "#F89521"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"

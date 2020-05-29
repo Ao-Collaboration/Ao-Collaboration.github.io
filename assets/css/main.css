@@ -193,8 +193,8 @@ img {
 }
 
 .navbar-custom .navbar-nav .nav-item {
-  text-transform: uppercase;
-  font-size: 0.75rem;
+  text-transform: lowercase;
+  font-size: 0.85rem;
   letter-spacing: 0.0625rem;
 }
 
