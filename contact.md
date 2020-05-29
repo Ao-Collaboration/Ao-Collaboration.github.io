@@ -7,7 +7,7 @@ subtitle: Ao Collaboration
 
 ## phone and email
 
-Phone: <a href="tel:{{ site.social-network-links.phone }}">{{ site.social-network-links.phone }}</a>
+Phone: <a href="tel:{{ site.social-network-links.telephone }}">{{ site.social-network-links.telephone }}</a>
 <br/>
 Email: <a href="mailto:{{ site.social-network-links.email }}">{{ site.social-network-links.email }}</a>
 

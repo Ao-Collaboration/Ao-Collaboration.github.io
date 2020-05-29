@@ -24,7 +24,7 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  phone: "+64 210 740 420"
+  telephone: "+64 210 740 420"
   email: "kate@aocollab.tech"
 #  facebook: kate
 #  github: kate
@@ -38,7 +38,6 @@ social-network-links:
 #  instagram: kate
 #  youtube: user/kate
 #  spotify: kate
-#  telephone: +5555555
 #  steam: kate
 #  twitch: kate
 #  yelp: kate
