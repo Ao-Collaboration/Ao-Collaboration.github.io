@@ -437,6 +437,10 @@ footer .footer-custom-content {
 
 /* --- Post preview --- */
 
+.posts-list {
+  margin-top: 1.5em;
+}
+
 .post-preview {
   padding: 1.25rem 0;
   border-bottom: 1px solid #eee;
