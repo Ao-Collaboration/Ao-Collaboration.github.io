@@ -25,7 +25,7 @@ round-avatar: false
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
 #  telephone: "+64 210 740 420"
-  email: "kate@aocollab.tech"
+   email: "kate@aocollab.tech"
 #  facebook: kate
 #  github: kate
 #  twitter: kate
