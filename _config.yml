@@ -31,7 +31,7 @@ email: "kate@aocollab.tech"
 #  twitter: kate
 #  rss: true
 #  reddit: kate
-linkedin: "company/ao-collaboration-ltd"
+# linkedin: "company/ao-collaboration-ltd"
 #  xing: kate
 #  stackoverflow: "5555555/kate"
 #  snapchat: kate
@@ -48,7 +48,7 @@ linkedin: "company/ao-collaboration-ltd"
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
