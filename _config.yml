@@ -48,7 +48,7 @@ linkedin: "https://www.linkedin.com/company/69582588/admin/"
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
