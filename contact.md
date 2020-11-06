@@ -1,7 +1,6 @@
 ---
 layout: page
 title: contact
-subtitle: Ao Collaboration
 ---
 
 ## contact email
