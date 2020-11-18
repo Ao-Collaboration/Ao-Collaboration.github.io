@@ -1,9 +1,7 @@
 ---
 layout: page
-title: about
+title: Standard Service Level Agreement
 ---
-
-# Standard Service Level Agreement
 
 ## 1.0	Client Management
 •	A weekly status report will be provided on major projects/multiple project accounts
