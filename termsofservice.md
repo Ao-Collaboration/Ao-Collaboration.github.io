@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Standard Service Level Agreement
+title: Terms of Service: Service Level Agreement
 ---
 
 ## 1.0	Client Management
