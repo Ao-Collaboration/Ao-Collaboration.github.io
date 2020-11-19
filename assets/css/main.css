@@ -4,6 +4,16 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+/* Mailchip styling */
+
+#mc_embed_signup input.button {
+  background-color: {{ site.link-col | default: "#008AFF" }};
+}
+#mc_embed_signup input.button:hover,
+#mc_embed_signup input.button:focus {
+  background-color: {{ site.hover-col | default: "#0085A1" }};
+}
+
 /* --- General --- */
 
 html {
