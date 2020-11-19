@@ -116,8 +116,7 @@ date_format: "%-d %B %Y"
 #fb_app_id: ""
 
 # --- Other defaults --- #
-
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@5.0.0
 timezone: "Pacific/Auckland"
 markdown: kramdown
 highlighter: rouge
@@ -150,6 +149,7 @@ plugins:
   #  - jekyll-feed
   #  - jekyll-pagiante
   #  - jekyll-sitemap
+  - jekyll-remote-theme
 exclude:
   - CHANGELOG.md
   - CNAME
