@@ -5,9 +5,9 @@ author: Ao Collaboration
 navbar-links:
   About: "aboutus"
   Contact: "contact"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#  Author's home: "https://aocollab.tech"
+
+footer-links:
+  Terms of Service: "termsofservice"
 
 # --- Logo --- #
 

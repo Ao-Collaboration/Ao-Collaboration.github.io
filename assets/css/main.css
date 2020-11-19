@@ -63,6 +63,7 @@ a {
 }
 a:hover,
 a:focus {
+  text-decoration: none;
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 blockquote {
@@ -78,6 +79,9 @@ hr.small {
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
+}
+ul.bullet-before li:not(:first-child):before {
+  content: "\2022\00a0";
 }
 
 /* fix in-page anchors to not be behind fixed header */
@@ -473,7 +477,6 @@ footer .footer-custom-content {
 
 .post-preview a:focus,
 .post-preview a:hover {
-  text-decoration: none;
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 
