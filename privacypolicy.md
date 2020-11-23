@@ -23,11 +23,13 @@ The Service is owned and operated by Ao Collaboration and is offered subject to 
 
 In this Agreement, our customers and any of their staff members whom are given access to their Ao Collaboration Account are herein referred to as “Subscribers”, and our customers’ customers who use the Service (e.g. to login and manage Service Request) are referred to as “Customers”.
 
+
 ## SUMMARY
 We will never ask you for personal information unless we truly need it.
 We do not share your personal information with anyone except to comply with the law, develop our product, protect our rights, or if Ao Collaboration is acquired by or merged with another company.
 You retain all rights to your subscriber data.
 We never store credit card data on our servers.
+
 
 ## INFORMATION COLLECTION AND USAGE
 * **Registration** – When you sign up for Ao Collaboration, we ask you for information including your company name, address, billing address, e-mail address, and phone number. Our primary purpose in collecting this information is to provide you with a customized, efficient, and easy to use experience when using the service.
@@ -36,15 +38,18 @@ We never store credit card data on our servers.
 * **Profile** – We may collect, and store information obtained through cookies, log files, and/or third parties (e.g. Google Analytics) to create a profile of our users. The purpose of such a profile is to better understand how users’ access and use the Service to provide offers and make improvements.
 * **Data Storage** – Ao Collaboration uses third party vendors and hosting partners to provide the necessary server infrastructure, software, networking, storage, and related technology necessary to run the Service. Although Ao Collaboration owns the code, databases, and all rights to the Ao Collaboration application, you retain all rights to your Customer data.
 
+
 ## COMMUNICATIONS FROM THE SITE
 Special Offers and Updates – We may occasionally send you special offers or updates (e.g. newsletters) pertaining to the Service. Out of respect for privacy, you may opt out of these types of communications at any time.
 Service Announcements – We may occasionally send you notices of scheduled downtime or service upgrades. These communications will not be promotional in nature and are strictly for informational purpose.
 Customer Service – We communicate with users of the Service on a regular basis to respond to requests, inquire about experiences with Service, and provide support.
 
+
 ## DISCLOSURE
 * **Legal Disclaimer** – Ao Collaboration may disclose personally identifiable information under special circumstances, such as when required by law or when your actions violate our Terms of Service.
 * **Business transitions** – In the event Ao Collaboration goes through a business transition, such as a merger or acquisition with or by another company, your information will, in most cases, be transferred to the new company.
 * **Security** – Ao Collaboration takes every precaution to protect Subscribers’ information. When users submit sensitive information via the Site, or through the Service, their information is protected via industry-standard SSL encryption. We also do everything in our power to protect user-information offline.
+
 
 ## COOKIES
 A cookie is a small amount of data that is sent from Site to your browser and stored on your computer’s hard drive. Cookies are used to maintain sessions on the Site (e.g. login status) and are required to use the Service.
