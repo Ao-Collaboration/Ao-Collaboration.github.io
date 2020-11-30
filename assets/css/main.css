@@ -268,16 +268,6 @@ img {
   }
 }
 
-@media (min-width: 768px) {
-  .navbar-custom .nav-item.dropdown:hover {
-    background: rgba(0, 0, 0, 0.1);
-  }
-}
-
-.navbar-custom .nav-item.dropdown.show {
-  background: rgba(0, 0, 0, 0.2);
-}
-
 .navbar-custom .nav-item.dropdown .dropdown-menu {
   min-width: 0;
   margin-top: 0;
@@ -320,10 +310,6 @@ img {
 
   .navbar-custom .navbar-nav .nav-link {
     padding: 0.675rem 0 0.675rem 1rem;
-  }
-
-  .navbar-custom .nav-item.dropdown.show {
-    background: rgba(0, 0, 0, 0.2);
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {

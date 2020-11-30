@@ -3,6 +3,9 @@ description: Ao Collaboration
 author: Ao Collaboration
 
 navbar-links:
+  Resources:
+    - Posts: "posts"
+    - Tags: "tags"
   About: "aboutus"
   Contact: "contact"
 
