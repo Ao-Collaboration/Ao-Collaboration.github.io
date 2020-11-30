@@ -35,9 +35,13 @@ In layman’s terms, a CRM system – when well-constructed – is generally a s
 We could have an exceedingly long conversation around the early days of CRM, who started using it, how it became more and more popular, and why it is still gaining momentum after decades (that’s right, decades). Should you be interested, [here is an easy-to-read account from Salesforce themselves, talking about the history of CRM](https://www.salesforce.com/ap/hub/crm/the-complete-crm-history/).
 
 While IT companies were the first ones to adopt CRM solutions, and database marketing became a thing, nowadays we can safely say that anyone could benefit from having a CRM.
+
 Are you a SaaS company? Get a CRM.
+
 Are you a Retailer who is finally pivoting towards OmniChannel? Get a CRM.
+
 Are you a Non-Profit Organisation that provides a service to the community? Get a CRM.
+
 Are you a Farmer who goes around markets on Saturdays and Sundays and has direct contact with customers? Get. A. CRM.
 
 Once again, crm.org puts it beautifully:
