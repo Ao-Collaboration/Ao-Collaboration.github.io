@@ -80,4 +80,4 @@ Need more reasons yet? Alright.
 There.
 
 Still on the fence, or thinking about it?
-Get in touch with us, tell us about your business, and we will find a sustainable way to help achieving your goals.
+[Get in touch with us](https://aocollab.tech/contact/), tell us about your business, and we will find a sustainable way to help achieving your goals.
