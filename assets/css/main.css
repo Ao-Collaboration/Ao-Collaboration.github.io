@@ -16,6 +16,14 @@ layout: null
 
 /* --- General --- */
 
+@media screen and (prefers-reduced-motion: no-preference) {
+/* Smooth scroll unless setting says not to */
+  html,
+  body {
+    scroll-behavior: smooth;
+  }
+}
+
 html {
   font-size: 100%
 }
@@ -925,4 +933,25 @@ pre {
   color: #808080;
   font-style: italic;
   font-size: 1rem;
+}
+
+/* Back to Top */
+
+.back-to-top {
+  /* outline: 1px solid red; */
+  position: absolute;
+  top: 150vh;
+  right: 0.25rem;
+  bottom: 0;
+  width: 3em;
+  pointer-events: none;
+}
+
+.back-to-top a {
+  /* Fall back to fixed for safari */
+  position: fixed;
+  position: sticky;
+  pointer-events: all;
+  top: calc(100vh - 5rem);
+  font-size: 2rem;
 }
