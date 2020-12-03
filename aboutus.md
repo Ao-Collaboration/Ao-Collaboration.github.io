@@ -9,8 +9,6 @@ We are the friendly personal connection to help get Salesforce working for them.
 <br/><br/>
 <br/><br/>
 ___
- 
-<br/><br/>
 <br/><br/>
 <img align="right" width="400" src="https://github.com/Ao-Collaboration/Ao-Collaboration.github.io/blob/master/assets/img/Aotearoa.jpg">
 
