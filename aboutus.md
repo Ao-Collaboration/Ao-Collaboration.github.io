@@ -11,6 +11,8 @@ We are the friendly personal connection to help get Salesforce working for them.
 
 ## the name
 
+<IMG SRC=”assets/img/Aotearoa.jpg” ALIGN=”right” />
+
 **Ao** is the Maori word for cloud, to dawn and world.
 
 Collaboration is what we do with other businesses. We collaborate with them to help improve their use and adoption of the Salesforce system.
