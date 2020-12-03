@@ -6,7 +6,9 @@ navbar-links:
   Resources:
     - Blog Posts: "posts"
     - Tags: "tags"
-  About: "aboutus"
+  Our Company:
+    - About Us: "aboutus"
+    - Meet The Team: "team"
   Contact: "contact"
 
 footer-links:
