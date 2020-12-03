@@ -6,11 +6,11 @@ cover-img: assets/img/page-header.png
 
 Ao Collaboration (Ao Collab) exists to help the emerging and small Salesforce business sector, who may not have the funds or the need for the work that the larger Salesforce Partners look after.
 We are the friendly personal connection to help get Salesforce working for them.
-
-
+ 
+ 
 ___
-
-
+ 
+ 
 <img align="right" width="400" src="https://github.com/Ao-Collaboration/Ao-Collaboration.github.io/blob/master/assets/img/Aotearoa.jpg">
 
 ## the name
