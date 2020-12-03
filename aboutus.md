@@ -11,7 +11,7 @@ We are the friendly personal connection to help get Salesforce working for them.
 
 ## the name
 
-<IMG SRC=”assets/img/Aotearoa.jpg” ALIGN=”right” />
+<img src=”/assets/img/Aotearoa.jpg” ALIGN=”right” />
 
 **Ao** is the Maori word for cloud, to dawn and world.
 
