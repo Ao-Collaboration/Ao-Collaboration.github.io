@@ -955,3 +955,32 @@ pre {
   top: calc(100vh - 5rem);
   font-size: 2rem;
 }
+
+/* Contact card */
+
+.card-holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 1em;
+}
+
+.card {
+  margin: 0.5em;
+  max-width: 340px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card div {
+  padding: 2em;
+}
+
+.card img {
+  border-radius: 5px 5px 0 0;
+}
