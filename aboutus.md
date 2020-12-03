@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-cover-img: assets/img/standard-header.png
+cover-img: assets/img/page-header.png
 ---
 
 Ao Collaboration (Ao Collab) exists to help the emerging and small Salesforce business sector, who may not have the funds or the need for the work that the larger Salesforce Partners look after.
