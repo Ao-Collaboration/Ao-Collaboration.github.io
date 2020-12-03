@@ -1,10 +1,10 @@
 ---
 layout: page
-title: the Team
+title: The Team
+subtitle: Meet our exceptionally talented team of specialists.
 cover-img: assets/img/page-header.png
 ---
 
-#### Meet our exceptionally talented team of specialists.
 
 <div class="card-holder">
 {% capture kate_content %}
