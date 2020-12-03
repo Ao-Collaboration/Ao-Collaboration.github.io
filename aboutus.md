@@ -8,9 +8,10 @@ Ao Collaboration (Ao Collab) exists to help the emerging and small Salesforce bu
 We are the friendly personal connection to help get Salesforce working for them.
 <br/><br/>
 <br/><br/>
+
 ___
 <br/><br/>
-<img align="right" width="400" src="https://github.com/Ao-Collaboration/Ao-Collaboration.github.io/blob/master/assets/img/Aotearoa.jpg">
+<img align="right" width="400" src="{{ '/assets/img/Aotearoa.jpg' | relative_url }}">
 
 ## The Name
 
