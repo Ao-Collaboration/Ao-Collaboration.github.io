@@ -9,9 +9,11 @@ We are the friendly personal connection to help get Salesforce working for them.
 
 
 
-## the name
 
-<img align="right" width="500" src="assets/img/Aotearoa.jpg">
+
+<img align="right" width="400" src="assets/img/Aotearoa.jpg">
+
+## the name
 
 **Ao** is the Maori word for cloud, to dawn and world.
 
