@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Meet the Team
+title: the Team
 cover-img: assets/img/page-header.png
 ---
 
+#### Meet our exceptionally talented team of specialists.
 
 <div class="card-holder">
 {% capture kate_content %}
 Something about Kate
 {% endcapture %}
-{% include contact-card.html img="/assets/img/Kate-website.png" name="Kate Standen" role=" Founder and Salesforce Consultant" blurb=kate_content %}
+{% include contact-card.html img="/assets/img/Kate-website.png" name="Kate Standen" role=" Founder, Salesforce Consultant" blurb=kate_content %}
 {% capture serena_content %}
 Serena comes from 15+ years of customer experience across many different sectors, including SaaS and web agencies. Here at Ao Collaboration, she is invested in helping improving processes and operation, as well as offering client solution to their specific needs. When not at work, Serena can be found initiating novices to the fine art of playing Dungeons and Dragons, cooking food and pairing it with tine, and lecturing people on what ingredients do and do not go on pizza.
 {% endcapture %}
