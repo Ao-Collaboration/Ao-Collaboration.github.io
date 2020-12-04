@@ -9,8 +9,7 @@ We are the friendly personal connection to help get Salesforce working for them.
 <br/><br/>
 <br/><br/>
 
-___
-<br/><br/>
+
 ## The Name
 
 <img align="right" width="350" padding-left="10px" src="{{ '/assets/img/Aotearoa.jpg' | relative_url }}">
