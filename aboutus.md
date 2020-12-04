@@ -11,7 +11,7 @@ We are the friendly personal connection to help get Salesforce working for them.
 
 ___
 <br/><br/>
-<img align="right" width="400" src="{{ '/assets/img/Aotearoa.jpg' | relative_url }}">
+<img align="right" width="350" padding-left="10px" src="{{ '/assets/img/Aotearoa.jpg' | relative_url }}">
 
 ## The Name
 
