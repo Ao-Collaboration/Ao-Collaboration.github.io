@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The Team
+title: the team
 subtitle: Meet our exceptionally talented team of specialists.
-cover-img: assets/img/page-header.png
+cover-img: 
 ---
 
 
