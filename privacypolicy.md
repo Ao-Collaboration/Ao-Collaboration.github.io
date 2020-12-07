@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: privacy policy
 ---
 
 
