@@ -10,7 +10,7 @@ We are the friendly personal connection to help get Salesforce working for them.
 <br/><br/>
 
 
-## The Name
+## the name
 
 <img class="content-image" src="{{ '/assets/img/Aotearoa.jpg' | relative_url }}">
 
