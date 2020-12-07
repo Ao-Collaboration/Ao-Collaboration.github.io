@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms of Service
+title: terms of service
 ---
 
 ## 1.0	Client Management
