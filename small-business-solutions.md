@@ -12,6 +12,17 @@ We believe in leveraging the power of Salesforce early on,when the business is s
 We also know that Salesforce, being the number 1 solution for businesses of any size and sector, can be intimidating - we are here to help navigating all its different aspects of it, keeping the focus on the essentials.
 
 
-<img class="content-image" src="{{ 'assets/icons/wrench-100.png' | relative_url }}">
-## Salesforce Essentials
+### Salesforce Essentials
 We help you starting off with a necessities kit that enables you to track all communication, manage leads and opportunities, look after accounts, create dashboards and reports, and support your existing clients all in one place.
+
+### Salesforce Sales Cloud
+We focus our work on helping your sales team, building a solution that leverages Salesforce functionalities and matches with your already existing processes. The Sales Cloud takes you from lead to conversion all in one place, providing a platform for you to manage all aspects of your sales funnel.
+
+### Salesforce Service Cloud
+We know how hard it is to provide exceptional, consistent customer service when, by nature, customer communication is all over the place. The Service Cloud connects customer service, digital service, and field service by drawing it all in a single place. Salesforce functionalities adapt to your specific needs, and we help you craft service tools that are relevant to what your business does.
+
+### Salesforce Community Cloud
+We design an easy to navigate, fully branded experience into your Salesforce for your customers and staff. The Community Cloud is an invaluable addition to any support platform, empowering all users to collaborate and quickly find the answers they seek.
+
+### Custom Solutions
+From small objects to bigger automations, we provide guidance and service for all those businesses who may already use any of the above clouds and want to get something more out of it. We sit with you and listen to your needs, creating with you a unique solution that works just for your business.
