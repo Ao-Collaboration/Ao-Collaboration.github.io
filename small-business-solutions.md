@@ -26,3 +26,13 @@ We design an easy to navigate, fully branded experience into your Salesforce for
 
 ### Custom Solutions
 From small objects to bigger automations, we provide guidance and service for all those businesses who may already use any of the above clouds and want to get something more out of it. We sit with you and listen to your needs, creating with you a unique solution that works just for your business.
+
+
+
+---
+accordion: 
+  - title: this is item 1
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+---
