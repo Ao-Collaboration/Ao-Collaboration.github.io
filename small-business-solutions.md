@@ -23,10 +23,10 @@ We believe in leveraging the power of Salesforce early on,when the business is s
 We also know that Salesforce, being the number 1 solution for businesses of any size and sector, can be intimidating - we are here to help navigating all its different aspects of it, keeping the focus on the essentials.
 
 ![Small Business Solutions](assets/img/our-solutions.png)
-<br/><br/>
+
 ## our services
 {% include accordion.html %}
-
+<br/><br/>
 
 ## want to have a chat with us?
 Please contact us via email: kate@aocollab.tech
