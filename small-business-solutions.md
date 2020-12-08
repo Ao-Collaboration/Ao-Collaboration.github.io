@@ -2,6 +2,7 @@
 layout: page
 title: small business solutions
 cover-img: assets/img/main-header.png
+share-img: assets/img/sme-share.jpg
 accordion: 
   - title: Salesforce Essentials
     content: We help you starting off with a necessities kit that enables you to track all communication, manage leads and opportunities, look after accounts, create dashboards and reports, and support your existing clients all in one place.
