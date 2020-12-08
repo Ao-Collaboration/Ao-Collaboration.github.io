@@ -28,6 +28,6 @@ We also know that Salesforce, being the number 1 solution for businesses of any 
 {% include accordion.html %}
 
 
-#### want to have a chat with us?
+## want to have a chat with us?
 Please contact us via email: kate@aocollab.tech
 
