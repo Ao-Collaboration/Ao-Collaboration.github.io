@@ -2,7 +2,7 @@
 layout: page
 title: the team
 subtitle: Meet our exceptionally talented team of specialists.
-cover-img: 
+cover-img: assets/img/main-header.png 
 ---
 
 
