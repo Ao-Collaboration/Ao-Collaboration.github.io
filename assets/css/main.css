@@ -605,8 +605,6 @@ footer .footer-custom-content {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 6.25rem 0;
-  color: #FFF;
-  text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
@@ -631,11 +629,6 @@ footer .footer-custom-content {
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
   font-weight: 400;
-}
-.intro-header.big-img .page-heading hr {
-  box-shadow: 1px 1px 3px #000;
-  -webkit-box-shadow: 1px 1px 3px #000;
-  -moz-box-shadow: 1px 1px 3px #000;
 }
 .intro-header.big-img .post-heading .post-meta {
   color: #EEE;
