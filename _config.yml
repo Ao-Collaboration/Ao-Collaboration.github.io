@@ -3,12 +3,13 @@ description: Ao Collaboration
 author: Ao Collaboration
 
 navbar-links:
-  Resources:
-    - Blog Posts: "posts"
-    - Tags: "tags"
+  Solutions: 'small-business-solutions'
   Our Company:
     - About Us: "aboutus"
     - Meet The Team: "team"
+  Resources:
+    - Blog Posts: "posts"
+    - Tags: "tags"
   Contact: "contact"
 
 footer-links:
