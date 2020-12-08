@@ -1,7 +1,7 @@
 ---
 layout: page
 title: contact
-cover-img: 
+cover-img: assets/img/main-header.png 
 ---
 
 ## contact email
