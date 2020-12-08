@@ -9,9 +9,9 @@ accordion:
     content: We focus our work on helping your sales team, building a solution that leverages Salesforce functionalities and matches with your already existing processes. The Sales Cloud takes you from lead to conversion all in one place, providing a platform for you to manage all aspects of your sales funnel.
   - title: Salesforce Service Cloud
     content: We know how hard it is to provide exceptional, consistent customer service when, by nature, customer communication is all over the place. The Service Cloud connects customer service, digital service, and field service by drawing it all in a single place. Salesforce functionalities adapt to your specific needs, and we help you craft service tools that are relevant to what your business does.
-      - title: Salesforce Community Cloud
+  - title: Salesforce Community Cloud
     content: We design an easy to navigate, fully branded experience into your Salesforce for your customers and staff. The Community Cloud is an invaluable addition to any support platform, empowering all users to collaborate and quickly find the answers they seek.
-      - title: Custom Solutions
+  - title: Custom Solutions
     content: From small objects to bigger automations, we provide guidance and service for all those businesses who may already use any of the above clouds and want to get something more out of it. We sit with you and listen to your needs, creating with you a unique solution that works just for your business.
 ---
 
