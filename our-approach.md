@@ -6,7 +6,7 @@ share-img: assets/img/our-approach-share.jpg
 ---
 
 # why salesforce
-<img class="content-image" src="{{ '/assets/img/salesforcelogo-150h.png' | relative_url }}">
+![salesforce logo](assets/img/salesforcelogo-150h.png){: style="float: left"}
 [Salesforce is the leading CRM platform with 150,000+ customers worldwide](https://aocollab.tech/2020-11-28-what-is-crm-why-salesforce/). Their pillars are Innovation, Platform, Productivity, Mobility, Community - a strong recipe for businesses of any size, anywhere. It's cloud based, and it has out of the box and fully customisable solutions regardless of company size, which makes it perfect for the small players all the way here in New Zealand.
 
 # why ao collaboration
