@@ -18,7 +18,7 @@ Our talented team leverages both a wealth of Salesforce experience and deep unde
 # how we do things
 Every business is unique, and we live by this when we shape our proposed solutions for our customers.
 
-Software and tools shouldn't be designed to 'adjust' business needs, rather the oppsite. We work to make the platform work for the business by adapting it to its already existing processes, something we believe is vital to any healthy digital transformation.
+Software and tools shouldn't be designed to 'fix' businesses, rather they should be designed to adjust to them. We work to make the platform work for the business by adapting it to its already existing processes, something we believe is vital to any healthy digital transformation.
 
 ### listen
 ![listen](assets/icons/icons8-audio-96.png){: style="float: left"}
