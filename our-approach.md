@@ -23,25 +23,33 @@ Software and tools shouldn't be designed to 'fix' businesses, rather they should
 ### listen
 ![listen](assets/icons/listen.png){: style="float: left"}
 Which is why the first thing we do is listen! It's great to package up solutions that many can utilise, however before we do that we focus on understanding our customers and what they are after (even when they are not entirely sure themselves!).
+<br/><br/>
 
 ### repeat
 ![repeat](assets/icons/repeat.png){: style="float: left"}
 Once we have understood the ins and outs of our clients requirements and we can confidently explain it back to them, we finalise a personalised proposal to give them an idea of what kind of magic happens in our Salesforce secret labs.
+<br/><br/>
 
 ### craft
 ![craft](assets/icons/craft.png){: style="float: left"}
 After agreeing on the proposal we happily go off and do our thing! Our primary focus is to maintain regular communication throughout projects and implementations so our clients know what we are up to! We believe in the importance of communication and do our best to honour it.
+<br/><br/>
 
 ### execute
 ![execute](assets/icons/execute.png){: style="float: left"}
 Now that the work is ready in our secret labs (also read 'sandbox') we implement it in our customer's environment, making sure the magic doesn't dissipate and all the bits and bobs are where they are supposed to be. This is usually a very exciting time both for us and our customers!
+<br/><br/>
 
 ### test and support
 ![test and support](assets/icons/support.png){: style="float: left"}
 At the end of the creative cicle, we test it all out to make sure we got rid of all the gremlins and everything is nice and tidy. Our customers usually take part in this, providing the unique set of fresh eyes and the experience of whose who will end up using our creation on a daily basis.
+<br/><br/>
+<br/><br/>
 
 ![Ao Collab logo](assets/img/oura-approach-graphic.png){: style="float: center"}
 <br/><br/>
+<br/><br/>
+
 # want to have a chat with us?
 Please contact us via email: <a href="mailto:{{ site.social-network-links.email }}">{{ site.social-network-links.email }}</a>
 <br/><br/>
