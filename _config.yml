@@ -6,7 +6,8 @@ navbar-links:
   Solutions: 'small-business-solutions'
   Our Company:
     - About Us: "aboutus"
-    - Meet The Team: "team"
+    - Our Approach: "our-approach"
+    - Our Team: "team"
   Resources:
     - Blog Posts: "posts"
     - Tags: "tags"
