@@ -30,11 +30,11 @@ Once we have understood the ins and outs of our clients requirements and we can 
 
 ### craft
 ![craft](assets/icons/icons8-test-tube-96.png){: style="float: left"}
-After agreeing on the proposal we happily go off and do our thing! Our primary focus is to maintain regular communication throughout projects and implementations so the clients know what we are up to! We firmly believe in the importance of communication and do our best to always honour it.
+After agreeing on the proposal we happily go off and do our thing! Our primary focus is to maintain regular communication throughout projects and implementations so our clients know what we are up to! We believe in the importance of communication and do our best to honour it.
 
 ### execute
 ![execute](assets/icons/essentials-icon-96.png){: style="float: left"}
-Now that the work is one hundred percent ready in our secret labs (also read 'sandbox') we proceed to implement it in our customer's environment, making sure the magic doesn't dissipate and all the bits and bobs are where they are supposed to be. This is usually a very exciting time both for us and our customers!
+Now that the work is ready in our secret labs (also read 'sandbox') we implement it in our customer's environment, making sure the magic doesn't dissipate and all the bits and bobs are where they are supposed to be. This is usually a very exciting time both for us and our customers!
 
 ### test and support
 ![test and support](assets/icons/service-icon-96.png){: style="float: left"}
