@@ -20,8 +20,9 @@ Every business is unique, and we live by this when we shape our proposed solutio
 
 Software and tools shouldn't be designed to 'fix' businesses, rather they should be designed to adjust to them. We work to make the platform work for the business by adapting it to its already existing processes, something we believe is vital to any healthy digital transformation.
 
+
+![listen](assets/icons/listen-logo.png){: style="float: left"}
 ### listen
-![listen](assets/icons/icons8-audio-96.png){: style="float: left"}
 Which is why the first thing we do is listen! It's great to package up solutions that many can utilise, however before we do that we focus on understanding our customers and what they are after (even when they are not entirely sure themselves!).
 
 ### repeat
