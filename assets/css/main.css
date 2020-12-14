@@ -722,8 +722,7 @@ footer .footer-custom-content {
 }
 
 .reader-time {
-  display: inline-block;
-  color: #817F80;
+  display: inline-block
 }
 @media (max-width: 767px) {
   .reader-time {
