@@ -5,6 +5,7 @@ subtitle: All our blog articles available for reading at your leisure.
 cover-img: assets/img/main-header.png
 ---
 
+<div class="flex-half">
 {% for post in site.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
@@ -55,3 +56,4 @@ cover-img: assets/img/main-header.png
 
    </article>
 {% endfor %}
+</div>

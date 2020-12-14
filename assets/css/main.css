@@ -45,6 +45,15 @@ body {
 .flex-full {
   flex: 1 0 auto;
 }
+.flex-half {
+  display: flex;
+}
+.flex-half > * {
+  flex: 0 50%;
+}
+.flex-half > *:nth-child(2) {
+  margin-left: 12px;
+}
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
@@ -506,6 +515,9 @@ footer .footer-custom-content {
   width: 12rem;
   margin-top: -2.1875rem;
   filter: grayscale(90%);
+}
+.flex-half .post-image {
+  margin-top: 0;
 }
 .post-image:hover {
   filter: grayscale(0%);
