@@ -2,9 +2,9 @@
 layout: post
 title: What is a CRM and why Salesforce?
 subtitle: In a world full of many world class CRMs, why choose Salesforce.
-cover-img: /assets/img/2020-11-30coverV3.jpg
+cover-img: /assets/img/2020-11-30coverV4.jpg
 thumbnail-img: /assets/img/2020-11-30Thumb.jpg
-share-img: /assets/img/2020-11-30coverV3.jpg
+share-img: /assets/img/2020-11-30coverV4.jpg
 tags: [Helpful Tips, Salesforce]
 ---
 
