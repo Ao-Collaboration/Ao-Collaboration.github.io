@@ -486,7 +486,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #817F80;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -723,6 +723,7 @@ footer .footer-custom-content {
 
 .reader-time {
   display: inline-block;
+  color: #817F80;
 }
 @media (max-width: 767px) {
   .reader-time {
