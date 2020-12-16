@@ -42,21 +42,25 @@ To enable Dynamic Forms:
 3. Click **Enabled** (right hand side of the page)
 4. **Save**
 
-![Enable Dynamic Forms](assets/img/2020-12-16-enable-dynamic-forms.png)
+![Enable Dynamic Forms](https://aocollab.tech/assets/img/2020-12-16-enable-dynamic-forms.png)
 
 For existing pages Salesforce implemented a special function that allows you to upgrade old record pages to Dynamic Forms automatically.
 Just click the **Record Details** component and look for the **Upgrade Now** button at the top of the properties pane on the right hand side, and follow instructions.
 
-![Upgrade Existing Pages](assets/img/2020-12-16-upgrading-existing-pages-to-dynamic-forms.png)
+![Upgrade Existing Pages](https://aocollab.tech/assets/img/2020-12-16-upgrading-existing-pages-to-dynamic-forms.png)
 
 For brand new pages, you will see an additional tab labeled **Fields** in the left-hand components pane.
 That’s where you find all the fields available for putting on the page. Before dragging any of those onto the page, you need to use the **Field Section** component to create an area to place your fields.
 
-![New Pages](assets/img/2020-12-16-new-pages-dynamic-fields.png)
+![New Pages](https://aocollab.tech/assets/img/2020-12-16-new-pages-dynamic-fields.png)
 
 ## Useful Resources
 [Trailhead: Be An Innovator With Dynamic Pages Trailmix](https://trailhead.salesforce.com/users/strailhead/trailmixes/be-an-innovator-with-dynamic-pages)
+
 [Break Up Your Record Details with Dynamic Forms](https://admin.salesforce.com/blog/2019/break-up-your-record-details-with-dynamic-forms)
+
 [Dynamic Forms Tips and Considerations](https://help.salesforce.com/articleView?id=dynamic_forms_considerations.htm&type=5)
+
 [Dynamic Forms Known Issues](https://help.salesforce.com/articleView?id=dynamic_forms_known_issues.htm&type=5)
+
 [Release Notes](https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_forcecom_lab_dynamic_forms.htm)
