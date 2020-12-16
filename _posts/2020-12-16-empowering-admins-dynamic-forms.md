@@ -55,12 +55,8 @@ That’s where you find all the fields available for putting on the page. Before
 ![New Pages](https://aocollab.tech/assets/img/2020-12-16-new-pages-dynamic-fields.png)
 
 ## Useful Resources
-[Trailhead: Be An Innovator With Dynamic Pages Trailmix](https://trailhead.salesforce.com/users/strailhead/trailmixes/be-an-innovator-with-dynamic-pages)
-
-[Break Up Your Record Details with Dynamic Forms](https://admin.salesforce.com/blog/2019/break-up-your-record-details-with-dynamic-forms)
-
-[Dynamic Forms Tips and Considerations](https://help.salesforce.com/articleView?id=dynamic_forms_considerations.htm&type=5)
-
-[Dynamic Forms Known Issues](https://help.salesforce.com/articleView?id=dynamic_forms_known_issues.htm&type=5)
-
-[Release Notes](https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_forcecom_lab_dynamic_forms.htm)
+* [Trailhead: Be An Innovator With Dynamic Pages Trailmix](https://trailhead.salesforce.com/users/strailhead/trailmixes/be-an-innovator-with-dynamic-pages)
+* [Break Up Your Record Details with Dynamic Forms](https://admin.salesforce.com/blog/2019/break-up-your-record-details-with-dynamic-forms)
+* [Dynamic Forms Tips and Considerations](https://help.salesforce.com/articleView?id=dynamic_forms_considerations.htm&type=5)
+* [Dynamic Forms Known Issues](https://help.salesforce.com/articleView?id=dynamic_forms_known_issues.htm&type=5)
+* [Release Notes](https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_forcecom_lab_dynamic_forms.htm)
