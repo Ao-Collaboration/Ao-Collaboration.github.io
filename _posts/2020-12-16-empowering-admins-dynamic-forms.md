@@ -8,7 +8,6 @@ share-img: /assets/img/2020-11-30coverV6.jpg
 tags: [Empowering Admins, Guides, Lightning]
 ---
 
-
 If you already are a Salesforce user, you will know that with the [Summer 20 Release Note](https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_forcecom_lab_dynamic_forms.htm), Salesforce announced what was probably the number one feature request - over 10,000 votes and a 13 years timeline, people!
 
 So, now that the hot stuff is finally out in the world, we figured it would be good to give you a general run-down and some step by step how-tos.
