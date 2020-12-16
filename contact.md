@@ -4,6 +4,9 @@ title: contact
 cover-img: assets/img/main-header.png 
 ---
 
+
+{% include web-to-case-form.html %}
+
 ## contact email
 
 Please contact us via email: <a href="mailto:{{ site.social-network-links.email }}">{{ site.social-network-links.email }}</a>
