@@ -2,8 +2,8 @@
 layout: post
 title: Empowering Admins: Dynamic Forms
 subtitle: All you need to know about Salesforce Dynamic Forms and how to use them.
-cover-img: /assets/img/2020-11-30coverV6.jpg
-thumbnail-img: /assets/img/2020-11-30Thumb.jpg
+cover-img: /assets/img/Empowering-Admins-Cover.png
+thumbnail-img: /assets/img/2020-12-16-dynamic-forms-thumb.jpg
 share-img: /assets/img/2020-11-30coverV6.jpg
 tags: [Empowering Admins, Guides, Lightning]
 ---
