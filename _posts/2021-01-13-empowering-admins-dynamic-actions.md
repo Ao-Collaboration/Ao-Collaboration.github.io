@@ -46,7 +46,8 @@ The introduction of Dynamic Actions has also improved the experience with Cases 
 Salesforce has created a neat video that includes what we described in the **Enabling Dynamic Actions** above, plus a step by step on how to use them.
 Rather than giving you a lengthy ordered list with screenshots, we figured it was more effective to just share their video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AE1J5JSdpdc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AE1J5JSdpdc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> {: style="float: center"}
+<br/>
 
 ## Useful Resources
 * [Learn MOAR: Try Dynamic Actions in App Builder with the Summer ’20 Release](https://admin.salesforce.com/blog/2020/try-dynamic-actions-in-app-builder-with-the-summer-20-release)
