@@ -82,6 +82,12 @@ blockquote {
 blockquote p:first-child {
   margin-top: 0;
 }
+input, textarea {
+  border: 1px solid #ABB0B2;
+  border-radius: 3px;
+  padding: 8px 0;
+  text-indent: 2%;
+}
 hr.small {
   max-width: 6.25rem;
   margin: 4rem auto 1rem auto;

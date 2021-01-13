@@ -1,41 +1,46 @@
-<!--  ----------------------------------------------------------------------  -->
-<!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
-<!--  If necessary, please modify the charset parameter to specify the        -->
-<!--  character set of your HTML page.                                        -->
-<!--  ----------------------------------------------------------------------  -->
+<div id="mc_embed_signup">
+	<form action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="post">
+		<input type=hidden name='captcha_settings' value='{"keyname":"WebContactFormKey","fallback":"true","orgId":"00D2w000007PAtA","ts":""}'>
+		<input type=hidden name="orgid" value="00D2w000007PAtA">
+		<input type=hidden name="retURL" value="https://aocollab.tech/">
 
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
-<script src="https://www.google.com/recaptcha/api.js"></script>
-<script>
- function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
-</script>
+		<!--  ----------------------------------------------------------------------  -->
+		<!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+		<!--  these lines if you wish to test in debug mode.                          -->
+		<!--  <input type="hidden" name="debug" value=1>                              -->
+		<!--  <input type="hidden" name="debugEmail" value="serena@aocollab.tech">    -->
+		<!--  ----------------------------------------------------------------------  -->
 
-<!--  ----------------------------------------------------------------------  -->
-<!--  NOTE: Please add the following <FORM> element to your page.             -->
-<!--  ----------------------------------------------------------------------  -->
-
-<form action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="POST">
-
-<input type=hidden name='captcha_settings' value='{"keyname":"WebContactFormKey","fallback":"true","orgId":"00D2w000007PAtA","ts":""}'>
-<input type=hidden name="orgid" value="00D2w000007PAtA">
-<input type=hidden name="retURL" value="https://aocollab.tech/">
-
-<!--  ----------------------------------------------------------------------  -->
-<!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
-<!--  these lines if you wish to test in debug mode.                          -->
-<!--  <input type="hidden" name="debug" value=1>                              -->
-<!--  <input type="hidden" name="debugEmail" value="serena@aocollab.tech">    -->
-<!--  ----------------------------------------------------------------------  -->
-
-<label for="name">Contact Name</label><input  id="name" maxlength="80" name="name" size="20" type="text" /><br>
-
-<label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" /><br>
-
-<label for="subject">Subject</label><input  id="subject" maxlength="80" name="subject" size="20" type="text" /><br>
-
-<label for="description">Description</label><textarea name="description"></textarea><br>
-
-<div class="g-recaptcha" data-sitekey="6Ld5IQgaAAAAAHivksB6r__t0BWxTVGuEGBOyXWL"></div><br>
-<input type="submit" name="submit">
-
-</form>
+		<div id="mc_embed_signup_scroll">
+			<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+			<div class="mc-field-group">
+				<label for="name">
+					Contact Name <span class="asterisk">*</span>
+				</label>
+				<input type="text" value="" name="name" class="required" id="name" size="20" maxlength="80" />
+			</div>
+			<div class="mc-field-group">
+				<label for="email">
+					Email <span class="asterisk">*</span>
+				</label>
+				<input type="email" value="" name="email" class="required email" id="email" size="20" maxlength="80" />
+			</div>
+			<div class="mc-field-group">
+				<label for="subject">
+					Subject <span class="asterisk">*</span>
+				</label>
+				<input type="subject" value="" name="subject" class="required" id="subject" size="20" maxlength="80" />
+			</div>
+			<div class="mc-field-group">
+				<label for="description">
+					Description <span class="asterisk">*</span>
+				</label>
+				<textarea type="description" value="" name="description" class="required" id="description" rows="3" style="width: 100%;"></textarea>
+			</div>
+			<div class="g-recaptcha" data-sitekey="6Ld5IQgaAAAAAHivksB6r__t0BWxTVGuEGBOyXWL"></div>
+			<div class="clear">
+				<input type="submit" value="Submit" name="submit" class="button">
+			</div>
+		</div>
+	</form>
+</div>
