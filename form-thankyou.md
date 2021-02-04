@@ -3,7 +3,6 @@ layout: page
 title: Thank you for getting in touch!
 cover-img: assets/img/main-header.png 
 ---
-
 ![salesforce logo](assets/img/checkbox-512.png){: style="float: center"}
 <br/>
 <br/>
