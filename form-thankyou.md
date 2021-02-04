@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Thank you for getting in touch!
 cover-img: assets/img/main-header.png 
 ---
