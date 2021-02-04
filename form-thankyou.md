@@ -6,6 +6,6 @@ cover-img: assets/img/main-header.png
 ![tickbox](assets/img/checkbox-512.png){: style="float: center"}
 <br/>
 <br/>
-## We appreciate you contacting us. One of our colleagues will get back in touch with you soon!
+### We appreciate you contacting us. One of our colleagues will get back in touch with you soon!
 <br/>
-## Have a great day!
+### Have a great day!
