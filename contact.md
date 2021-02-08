@@ -9,6 +9,7 @@ cover-img: assets/img/main-header.png
 Please use the form below
 
 {% include web-to-case-form.html %}
+<br/>
 
 ## location
 
