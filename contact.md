@@ -1,12 +1,12 @@
 ---
 layout: page
-title: contact
+title: contact us
 cover-img: assets/img/main-header.png 
 ---
 
-## contact us
+## get in touch
 
-Please contact us via the form below
+Please use the form below
 
 {% include web-to-case-form.html %}
 
