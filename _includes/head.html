@@ -5,7 +5,7 @@
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
   <script src="https://www.google.com/recaptcha/api.js"></script>
   <script>
-    function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
+    function timestamp() { var response = document.getElementById("g-recaptcha-response"); var captcha_settings = document.getElementsByName("captcha_settings"); if ((response == null || response.value.trim() == "") && captcha_settings[0]) { var elems = JSON.parse(captcha_settings[0].value); elems["ts"] = JSON.stringify(new Date().getTime()); captcha_settings[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
   </script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
