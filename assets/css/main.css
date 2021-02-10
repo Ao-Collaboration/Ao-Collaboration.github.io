@@ -953,7 +953,8 @@ pre {
   position: sticky;
   pointer-events: all;
   top: calc(100vh - 5rem);
-  font-size: 2rem;
+  text-align: center;
+  display: block;
 }
 
 /* Contact card */
