@@ -17,6 +17,7 @@ It integrates both with **Sales Cloud** and **Service Cloud** and it focuses on 
 * keeping the team on track by allowing them to search an preview records in Slack
 * extending collaboration between sales and service teams
 <br/>
+<br/>
 
 ## Integration Requirements
 Whilst both apps are supplied for Free on the **Slack app directory** and the **Salesforce appexchange**, you do need to meet certain requirements when it comes down to the version of Slack and Salesforce.
@@ -28,6 +29,7 @@ Whilst both apps are supplied for Free on the **Slack app directory** and the **
 
 This KnowledgeBase article will give you the step-by-step installation guide [Salesforce and Slack: Unlocking collaboration for sales and service](https://slack.com/intl/en-nz/blog/collaboration/salesforce-and-slack-for-sales-and-service).
 <br/>
+<br/>
 
 ## Alternatives: Zapier and Automate.io
 In case you already make use of workflows to automate processes and connect third party apps, here are a couple of options that allow you to connect **Salesforce** and **Slack**:
@@ -35,6 +37,7 @@ In case you already make use of workflows to automate processes and connect thir
 * [Integrate with Automate.io](https://automate.io/integration/salesforce/slack)
 The advantage of creating workflows with these platforms - especially if you already have in-house automation specialists - is the freedom to create custom workflows that make sense for your organization.
 The other side of the coin is the inability to leverage an out-of-the-box integration or get support for it, so we recommend this solution to companies who already well versed in Zapier or Automate.io and have the capacity to have one of the team build and maintain the automation.
+<br/>
 <br/>
 
 ## Use Cases
@@ -46,6 +49,7 @@ Communication across teams for Service:
 Communication across teams for Sales:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-LJCfAwS68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
 <br/>
 
 ## Useful Resources
