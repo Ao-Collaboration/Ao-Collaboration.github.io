@@ -8,6 +8,9 @@
     function timestamp() { var response = document.getElementById("g-recaptcha-response"); var captcha_settings = document.getElementsByName("captcha_settings"); if ((response == null || response.value.trim() == "") && captcha_settings[0]) { var elems = JSON.parse(captcha_settings[0].value); elems["ts"] = JSON.stringify(new Date().getTime()); captcha_settings[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
   </script>
 
+  <!-- Form styles -->
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator | default: '-' }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
