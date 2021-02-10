@@ -7,7 +7,7 @@ cover-img: assets/img/main-header.png
 
 <div class="card-holder">
 {% capture kate_content %}
-Kate has been in the Salesforce Eco-System for the past 6 years and also has 10+ years of customer services across many different sectors.
+Kate has been in the Salesforce Eco-System for the past 6 years and also has 10+ years of customer service experience across many different sectors.
 <br/><br/>
 She started with Salesforce as an in-house admin, then studying and freelancing as an Admin & Consultant. Kate then went on to form Ao Collaboration in a desire to help the SMB sector in making sure that Salesforce is working with their businesses processes. She found that too often SMBs were left to the side in pursuit of larger projects and, with a passion to help, wanted to create a space that could listen and serve our smaller clients needs.
 <br/><br/>
