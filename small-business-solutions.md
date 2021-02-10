@@ -31,5 +31,7 @@ We also know that Salesforce, being the number 1 solution for businesses of any 
 <br/><br/>
 
 ## want to have a chat with us?
-Please contact us via email: <a href="mailto:{{ site.social-network-links.email }}">{{ site.social-network-links.email }}</a>
+Please contact us using the form below
+
+{% include web-to-case-form.html %}
 
