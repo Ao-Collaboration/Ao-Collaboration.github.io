@@ -18,6 +18,7 @@ The integration between **Trello** and **Salesforce** might be a limited one, ho
 
 **Trello** is a great collaboration tool for businesses that need to watch that bottom line closely, but still want to keep organized. They describe themselves really well:
 > Trello’s boards, lists, and cards enable teams to organize and prioritize projects in a fun, flexible, and rewarding way.
+
 Most importantly, you have very high chances to be able to stay on the **Free** plan until your business has expanded enough to sustain the cost (the next tier up is 12.50USD monthly per user, which is still pretty sweet). With the **Free** plan you still get to use 10 boards and you have 1 Power-Up per board available.
 
 ## Integration Requirements
