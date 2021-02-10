@@ -17,7 +17,7 @@ Outside of work, Kate loves spending time with her family, and encouraging her k
 {% capture serena_content %}
 Serena comes from 15+ years of customer experience across many different sectors, including SaaS and web agencies.
 <br/><br/>
-Here at Ao Collaboration, she is invested in helping improving processes and operation, as well as offering client solutions to suit their specific needs.
+Here at Ao Collaboration, she is invested in helping improving processes and operations, as well as offering client solutions to suit their specific needs.
 <br/><br/>
 When not at work, Serena can be found initiating novices to the fine art of playing Dungeons and Dragons, cooking food and pairing it with wine, and lecturing people on what ingredients do and do not go on pizza.
 {% endcapture %}
