@@ -8,6 +8,10 @@ share-img: assets/img/2021-02-09-slack-salesforce-share.jpg
 tags: [Integrations, Slack, Collaboration]
 ---
 
+{:refdef: style="text-align: center;"}
+![slack salesforce integration]({{ 'assets/img/2021-02-09-slack-salesforce.jpg' | relative_url }})
+{:refdef}
+
 With Salesforce being one of Slack's earliest partners, a full integration was always in the cards. As their shared customer base grew with the two companies, the demand for a full collaboration brought Slack to release the well known [Salesforce for Slack app](https://slack.com/apps/AKGPGUFP1-salesforce) and its Salesforce sister [Slack Integration with AppExchange](https://www.salesforce.com/solutions/small-business-solutions/integrations/slack-crm-integration/).
 
 That's right. Two apps. Each app provides different functionalities.
