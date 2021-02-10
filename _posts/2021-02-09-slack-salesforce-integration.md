@@ -39,6 +39,7 @@ This KnowledgeBase article will give you the step-by-step installation guide [Sa
 In case you already make use of workflows to automate processes and connect third party apps, here are a couple of options that allow you to connect **Salesforce** and **Slack**:
 * [Integrate with Zapier](https://zapier.com/apps/salesforce/integrations/slack)
 * [Integrate with Automate.io](https://automate.io/integration/salesforce/slack)
+
 The advantage of creating workflows with these platforms - especially if you already have in-house automation specialists - is the freedom to create custom workflows that make sense for your organization.
 The other side of the coin is the inability to leverage an out-of-the-box integration or get support for it, so we recommend this solution to companies who already well versed in Zapier or Automate.io and have the capacity to have one of the team build and maintain the automation.
 <br/>
