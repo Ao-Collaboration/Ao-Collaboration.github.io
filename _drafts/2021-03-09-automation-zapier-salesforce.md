@@ -42,7 +42,7 @@ Additionally, having **Zapier** as your main automation tool means fundamentally
 <br/>
 <br/>
 
-## Zapier and Salesforce Ezamples
+## Zapier and Salesforce Examples
 * Send a message in **Slack** whenever an Opportunity is won in **Salesforce**
 * Create a new *custom object* in **Salesforce** from new rows in **Google Sheets** whenever the sheet is saved
 * Create a new *lead* in **Salesforce** whenever you receive an email into your **Business Gmail Account**
@@ -58,6 +58,8 @@ In conclusion, our recommendation is to map out all the processes and functional
 * [How Zapier Works](https://zapier.com/how-it-works)
 * [HelpDocs | How to Get Started with Salesforce on Zapier](https://zapier.com/help/doc/how-get-started-salesforce-zapier)
 * [Salesforce Appexchange | Zapier](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000007pJYIEA2)
+<br/>
+<br/>
 
 ## Ping us if you need us!
 Always know that we are here to help navigating around your **Salesforce** wants and needs. If you wish to have an exploratory discussion to see if **Zapier** might be the best solution for your business, just get in touch with us and we can offer you a quick no-strings-attached consultation!
