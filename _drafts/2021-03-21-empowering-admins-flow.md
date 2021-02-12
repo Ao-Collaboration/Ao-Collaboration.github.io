@@ -8,8 +8,6 @@ share-img: assets/img/EA-flow-share.jpg
 tags: [Empowering Admins, Salesforce, Automation]
 ---
 
-{:refdef: style="text-align: center;"} ![salesforce flow automation]({{ 'assets/img/2021-03-09-zapier-salesforce.jpg' | relative_url }}) {:refdef}
-
 intro
 - building blocks
 - flow types
