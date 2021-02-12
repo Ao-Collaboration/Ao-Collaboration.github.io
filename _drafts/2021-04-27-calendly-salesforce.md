@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 
-subtitle: 
-cover-img: a
+title: Collaboration | Integrate Calendly and Salesforce
+subtitle: Seamlessly schedule meetings with team members and clients with this powerful integration 
+cover-img: 
 thumbnail-img: 
 share-img: 
-tags: []
+tags: [Collaboration, Calendly, Integrations]
 ---
 
 intro
@@ -13,11 +13,18 @@ intro
 <br/>
 <br/>
 
-##
+## Integration Requirements
+x
 <br/>
 <br/>
 
-##
+## Alternatives: Zapier and Automate.io
+x
+<br/>
+<br/>
+
+## Benefits at a Glance
+x
 <br/>
 <br/>
 
