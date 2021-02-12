@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Automation | Salesforce Flow
+title: Empowering Adming | Automation with Flow
 subtitle: subtitle of the post
-cover-img: assets/img/automation-cover-v1.jpg
-thumbnail-img: assets/img/2021-03-09-zapier-salesforce-thumb.jpg
-share-img: assets/img/2021-03-09-zapier-salesforce-share.jpg
+cover-img: assets/img/Empowering-Admins-CoverV2.jpg
+thumbnail-img: assets/img/EA-flow-thumb.jpg
+share-img: assets/img/EA-flow-share.jpg
 tags: [Empowering Admins, Salesforce, Automation]
 ---
 
