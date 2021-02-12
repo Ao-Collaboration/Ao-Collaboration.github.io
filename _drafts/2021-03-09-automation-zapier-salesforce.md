@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automation | How to leverage Zapier for Salesforce
-subtitle: subtitle of the post
+subtitle: Achieve simple and complex custom automations with Zapier for Salesforce
 cover-img: assets/img/automation-cover-v1.jpg
 thumbnail-img: assets/img/2021-03-09-zapier-salesforce-thumb.jpg
 share-img: assets/img/2021-03-09-zapier-salesforce-share.jpg
