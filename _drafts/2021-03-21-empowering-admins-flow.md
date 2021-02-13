@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Empowering Adming | Automation with Flow
-subtitle: subtitle of the post
+title: Empowering Admins | Automation with Flow
+subtitle: Achieve automation and increase the quality of your work with in-house Salesforce solutions
 cover-img: assets/img/Empowering-Admins-CoverV2.jpg
 thumbnail-img: assets/img/EA-flow-thumb.jpg
 share-img: assets/img/EA-flow-share.jpg
