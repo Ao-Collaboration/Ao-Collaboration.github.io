@@ -5,7 +5,7 @@ subtitle: Achieve automation and increase the quality of your work with in-house
 cover-img: assets/img/Empowering-Admins-CoverV2.jpg
 thumbnail-img: assets/img/EA-flow-thumb.jpg
 share-img: assets/img/EA-flow-share.jpg
-tags: [Empowering Admins, Salesforce, Automation]
+tags: [Empowering Admins, Guides, Automation]
 ---
 
 intro
