@@ -16,10 +16,16 @@ share-img: assets/img/integrations-page-share.jpg
 
 * It's also great for making sure your tech isn't making it harder to do your work
 
-* Oh the other one is cost / time value. so the cost of upgrading and the time needed to move and updated processes into a single tech vs integrating the current tech
+* Integrating is a huge **cost vs time** saver! Letting you and your team continue using what they are already well versed in using and making sure it sends the right information to your new or improved CRM is much more sensible than moving all operations to a single platform and updating all your existing processes
 
-## 
+[Read our articles on integrations here to get an idea of what you can do](https://aocollab.tech/tags/#Integrations).
+<br/>
+<br/>
 
+## The Salesforce Integration Portfolio
+.
+<br/>
+<br/>
 ---
 ## What integration solution can we help you with?
 
@@ -28,3 +34,5 @@ share-img: assets/img/integrations-page-share.jpg
 {% include web-to-case-form.html %}
 
 ---
+<br/>
+<br/>
