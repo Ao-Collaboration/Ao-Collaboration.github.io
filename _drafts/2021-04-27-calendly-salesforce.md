@@ -42,8 +42,8 @@ As Calendly meetings are scheduled or canceled, you’ll be able to:
 
 ### Actions defined in the default flows
 * When a Calendly event is created, if a record
-..* does *not* exist in **Salesforce** with the invitee’s email  a new lead will be created
-..* does exist, then an event will be added to either a lead or case associated with the invitee’s email address
+  * does *not* exist in **Salesforce** with the invitee’s email  a new lead will be created  
+  * does exist, then an event will be added to either a lead or case associated with the invitee’s email address
 * Whenever a meeting is canceled, the event will be updated and the word “canceled” will appear next to the event in Salesforce
 * All record lookups are defined by the owner of the Calendly event
 * When a new lead is created from a Calendly event, the owner of this record will belong to the assigned Calendly user
