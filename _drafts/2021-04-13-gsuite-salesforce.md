@@ -39,7 +39,7 @@ The advantage of creating workflows with these platforms - especially if you alr
 <br/>
 
 ## Benefits at a Glance
-G Suite Integrations with Salesforce overview from the team at **Google Workspace**
+Integrations with Salesforce overview from the team at **Google Workspace**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Ce0bxmjR1o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <br/>
