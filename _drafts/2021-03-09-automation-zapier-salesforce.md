@@ -47,8 +47,7 @@ Additionally, having **Zapier** as your main automation tool means fundamentally
 * Create a new *custom object* in **Salesforce** from new rows in **Google Sheets** whenever the sheet is saved
 * Create a new *lead* in **Salesforce** whenever you receive an email into your **Business Gmail Account**
 * Create a new *invoice* in **Xero** each time there is a new *custom object* in **Salesforce** (this is a real money saver - and bottom line saver!)
-<br/>
-<br/>
+
 In conclusion, our recommendation is to map out all the processes and functionalities that you want to be taken care of automatically instead of doing it yourself or someone else in your team. Identify what apps you are already using and what is potentially missing - beware of app fatigue. *If* the automation you have in mind entails a significant cost increase (remember that even if it frees up a few hours of your week, it's still worth paying a few extra dollars!), **Zapier** can be your solution - be mindful of your business roadmap and how future-proof you want it to be too.
 <br/>
 <br/>
