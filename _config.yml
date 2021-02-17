@@ -3,7 +3,8 @@ description: Ao Collaboration
 author: Ao Collaboration
 
 navbar-links:
-  Solutions: 'small-business-solutions'
+  Solutions:
+    - Small Businesses: 'small-business-solutions'
   Our Company:
     - About Us: "aboutus"
     - Our Approach: "our-approach"
