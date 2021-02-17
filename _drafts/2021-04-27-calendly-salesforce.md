@@ -12,8 +12,11 @@ tags: [Collaboration, Calendly, Integrations]
 ![slack salesforce integration]({{ 'assets/img/2021-04-27-calendly-salesforce.jpg' | relative_url }})
 {:refdef}
 
-This integration  
+This integration differs a little from all the other integrations we have covered in our articles as it requires a higher investment in terms of paid versions of both **Calendly** and **Salesforce**.
 
+The main reason why we decided to spend a few words on it is, after trialling different options, **Calendly** emerged as one of the most solid alternatives for those who won't just do with more mainstream solutions such as Google Calendar (we covered Google Workspace solutions in one of our previous articles).
+
+**Calendly** has an extensive array of features that kick it up a notch and allows for vastly different scenarios. From different types of meetings (one-on-one, collective, group) to extremely high levels of scheduling customization (time buffers pre and post events, daily meeting limits, minimum scheduling notice to avoid last minute calls, time zone detection, and more) it is a great tool to collaborate with the rest of your team and your prospects and clients.
 <br/>
 <br/>
 
