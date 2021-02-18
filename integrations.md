@@ -16,7 +16,7 @@ Helping you integrate Salesforce with other systems seamlessly is an absolute pr
 
 * As a business, you already rely on an array of applications that work with your business processes
 
-* Whether you are about to start your **Salesforce** journey or you are just looking at improving your daily operations, integration is the perfect solution if you are looking at avoiding removing errors in data from duplicated entries across your platforms
+* Whether you are about to start your **Salesforce** journey or you are just looking at improving your daily operations, integration is the perfect solution if you are looking at avoiding errors in data from duplicated entries across your platforms
 
 * Integration is the best way to easily orchestrate your platforms to improve business processes. Implementing integrations is also a perfect time for you to review your processes and see if they can be improved - **it's often better to improve what's there than starting from scratch**
 
