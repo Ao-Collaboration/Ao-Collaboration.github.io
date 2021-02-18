@@ -6,7 +6,10 @@ cover-img: assets/img/main-header.png
 share-img: assets/img/integrations-page-share.jpg
 ---
 
-## Helping you integrate Salesforce with other systems seamlessly is an absolute priority for us. Why?
+Helping you integrate Salesforce with other systems seamlessly is an absolute priority for us.
+
+
+## Why choosing apps integration?
 
 * As a business, you already rely on an array of applications that work with your business processes
 
