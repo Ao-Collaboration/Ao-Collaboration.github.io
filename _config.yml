@@ -4,7 +4,8 @@ author: Ao Collaboration
 
 navbar-links:
   Solutions:
-    - Small Businesses: 'small-business-solutions'
+    - Small Businesses: "small-business-solutions"
+    - Integrations: "integrations"
   Our Company:
     - About Us: "aboutus"
     - Our Approach: "our-approach"
