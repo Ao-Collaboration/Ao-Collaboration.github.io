@@ -32,13 +32,13 @@ When we say that **Salesforce** integrates with hundreds and hundreds of existin
 Here's a brief overview of what **Salesforce** has picked for app solutions for small businesses. They are all well known platforms with easy and seamless integrations that can be put in place out-of-the-box.
 
 <div class="card-holder">
-{% include contact-card.html img="assets/img/GoogleCloud.png" name="Google Workspace" role="Streamline your team's workflow and increase productivity by syncing G Suite by Google Cloud with Salesforce"}
-{% include contact-card.html img="assets/img/Slack.jpg" name="Slack" role="Increase team collaboration and productivity with the Slack and Salesforce integration"}
-{% include contact-card.html img="assets/img/MailChimp.jpg" name="MailChimp" role="Make it easier to manage email lists and contact records by connecting MailChimp and Salesforce"}
-{% include contact-card.html img="assets/img/LinkedIn.jpg" name="LinkedIn" role="Target and engage the right buyers and save time, with the LinkedIn and Salesforce integration"}
-{% include contact-card.html img="assets/img/Jira.jpg" name="Jira" role="Integrate Jira and Salesforce and make it easier to monitor the progress of your projects"}
-{% include contact-card.html img="assets/img/Dropbox.jpg" name="Dropbox" role="Sync documents to keep files updated and organized, with the Dropbox and Salesforce integration"}
-{% include contact-card.html img="assets/img/DocuSign.jpg" name="DocuSign" role="Connect DocuSign and Salesforce to send, sign, and track agreements and approvals on any device"}
+{% include contact-card.html img="assets/img/GoogleCloud.png" name="Google Workspace" role="Streamline your team's workflow and increase productivity by syncing G Suite by Google Cloud with Salesforce" %}
+{% include contact-card.html img="assets/img/Slack.jpg" name="Slack" role="Increase team collaboration and productivity with the Slack and Salesforce integration" %}
+{% include contact-card.html img="assets/img/MailChimp.jpg" name="MailChimp" role="Make it easier to manage email lists and contact records by connecting MailChimp and Salesforce" %}
+{% include contact-card.html img="assets/img/LinkedIn.jpg" name="LinkedIn" role="Target and engage the right buyers and save time, with the LinkedIn and Salesforce integration" %}
+{% include contact-card.html img="assets/img/Jira.jpg" name="Jira" role="Integrate Jira and Salesforce and make it easier to monitor the progress of your projects" %}
+{% include contact-card.html img="assets/img/Dropbox.jpg" name="Dropbox" role="Sync documents to keep files updated and organized, with the Dropbox and Salesforce integration" %}
+{% include contact-card.html img="assets/img/DocuSign.jpg" name="DocuSign" role="Connect DocuSign and Salesforce to send, sign, and track agreements and approvals on any device" %}
 </div>
 <br/>
 <br/>
