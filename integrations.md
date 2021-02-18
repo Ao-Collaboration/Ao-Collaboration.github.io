@@ -23,9 +23,24 @@ share-img: assets/img/integrations-page-share.jpg
 <br/>
 
 ## The Salesforce Integration Portfolio
-.
+When we say that **Salesforce** integrates with hundreds and hundreds of existing platforms, we are not just saying it to impress - if you [go have a look for yourself on their Appexchange page](https://appexchange.salesforce.com/) you'll know what we mean. Their portfolio is one of the biggest available in the CRM market and the chances of you finding exactly what you are looking for are extremely high.
+
+Here's a brief overview of what **Salesforce** has picked for app solutions for small businesses. They are all well known platforms with easy and seamless integrations that can be put in place out-of-the-box.
+
+<div class="card-holder">
+{% include contact-card.html img="assets/img/GoogleCloud.png" name="Google Workspace" role="Streamline your team's workflow and increase productivity by syncing G Suite by Google Cloud with Salesforce."}
+{% capture serena_content %}
+Serena comes from 15+ years of customer experience across many different sectors, including SaaS and web agencies.
+<br/><br/>
+Here at Ao Collaboration, she is invested in helping improving processes and operations, as well as offering client solutions to suit their specific needs.
+<br/><br/>
+When not at work, Serena can be found initiating novices to the fine art of playing Dungeons and Dragons, cooking food and pairing it with wine, and lecturing people on what ingredients do and do not go on pizza.
+{% endcapture %}
+{% include contact-card.html img="/assets/img/Serena-website.png" name="Serena Cappellini" role="Salesforce Specialist" blurb=serena_content %}
+</div>
 <br/>
 <br/>
+
 ---
 ## What integration solution can we help you with?
 
