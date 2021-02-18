@@ -8,6 +8,7 @@ share-img: assets/img/integrations-page-share.jpg
 
 Helping you integrate Salesforce with other systems seamlessly is an absolute priority for us.
 
+![Integrations Advantages](assets/img/integrations-infographic.jpg){: style="float: center"}
 
 ## Why choosing apps integration?
 
