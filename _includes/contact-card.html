@@ -3,10 +3,13 @@
 	<div>
 		<h4>{{ include.name }}</h4>
 		<p>{{ include.role }}</p>
+		{% if include.blurb %}
 		<a type="button" data-toggle="modal" data-target="#modal-{{ include.name | slugify }}" href="">more</a>
+		{% endif %}
 	</div>
 </div>
 
+{% if include.blurb %}
 <div class="modal fade" id="modal-{{ include.name | slugify }}" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="modal-dialog" role="document">
 		<div class="modal-content">
@@ -26,3 +29,4 @@
 		</div>
 	</div>
 </div>
+{% endif %}
