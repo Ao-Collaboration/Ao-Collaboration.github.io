@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Integrations | Trello and Salesforce
-subtitle: subtitle of the post
+subtitle: The perfect small business solution to keep the team well organized.
 cover-img: assets/img/integrations-cover-v2.jpg
 thumbnail-img: assets/img/2021-02-23-trello-thumb.jpg
 share-img: assets/img/2021-02-23-trello-share.jpg
