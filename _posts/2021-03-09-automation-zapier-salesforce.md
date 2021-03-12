@@ -55,8 +55,8 @@ In conclusion, our recommendation is to map out all the processes and functional
 ## Useful Resources
 * [Zapier integrations for Salesforce](https://zapier.com/apps/salesforce/integrations)
 * [How Zapier Works](https://zapier.com/how-it-works)
-* [HelpDocs | How to Get Started with Salesforce on Zapier](https://zapier.com/help/doc/how-get-started-salesforce-zapier)
-* [Salesforce Appexchange | Zapier](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000007pJYIEA2)
+* [HelpDocs - How to Get Started with Salesforce on Zapier](https://zapier.com/help/doc/how-get-started-salesforce-zapier)
+* [Salesforce Appexchange - Zapier](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000007pJYIEA2)
 <br/>
 <br/>
 
