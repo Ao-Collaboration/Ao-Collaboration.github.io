@@ -66,10 +66,10 @@ Let us help you with your automation requirements, whether you only need help wi
 <br/>
 
 ## Useful Resources
-* [HelpDocs | Automate Your Business Processes](https://help.salesforce.com/articleView?id=sf.extend_click_process.htm&type=5)
-* [Flow Basics | Trailhead Module](https://trailhead.salesforce.com/en/content/learn/modules/flow-basics)
-* [Flow Builder Tutorials | YouTube Playlist](https://youtube.com/playlist?list=PLrC_ei2_Pv0GsCrUp6xORzVT62FCFAWMl)
-* [Build Flows with Flow Builder | Trailhead Trail](https://trailhead.salesforce.com/en/content/learn/trails/build-flows-with-flow-builder)
-* [Build a Simple Flow | Trailhead Project](https://trailhead.salesforce.com/en/content/learn/projects/build-a-simple-flow)
+* [HelpDocs - Automate Your Business Processes](https://help.salesforce.com/articleView?id=sf.extend_click_process.htm&type=5)
+* [Flow Basics - Trailhead Module](https://trailhead.salesforce.com/en/content/learn/modules/flow-basics)
+* [Flow Builder Tutorials - YouTube Playlist](https://youtube.com/playlist?list=PLrC_ei2_Pv0GsCrUp6xORzVT62FCFAWMl)
+* [Build Flows with Flow Builder - Trailhead Trail](https://trailhead.salesforce.com/en/content/learn/trails/build-flows-with-flow-builder)
+* [Build a Simple Flow - Trailhead Project](https://trailhead.salesforce.com/en/content/learn/projects/build-a-simple-flow)
 <br/>
 <br/>
