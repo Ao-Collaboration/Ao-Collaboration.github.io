@@ -5,7 +5,7 @@ subtitle: Increase productivity by syncing Google Workspace (previously G Suite)
 cover-img: assets/img/integrations-cover-v2.jpg
 thumbnail-img: assets/img/2021-04-13-guite-thumb.jpg
 share-img: assets/img/2021-04-13-guite-share.jpg
-tags: [Collaboration, G Suite, Integrations]
+tags: [Collaboration, G Suite, Integrations, Google Workspace]
 ---
 
 {:refdef: style="text-align: center;"}
