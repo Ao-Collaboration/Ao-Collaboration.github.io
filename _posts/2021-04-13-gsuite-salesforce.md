@@ -45,9 +45,9 @@ Integrations with Salesforce overview from the team at **Google Workspace**
 <br/>
 
 ## Useful Resources
-* [Gmail Integration | Trailhead Module](https://trailhead.salesforce.com/en/content/learn/modules/gmail_integration?trail_id=integrate-salesforce-and-google-platforms)
-* [Integrate Salesforce and Google Platforms | Trailhead Trail](https://trailhead.salesforce.com/en/content/learn/trails/integrate-salesforce-and-google-platforms)
-* [G Suite Integrations with Salesforce | Google Workspace YouTube](https://youtu.be/0Ce0bxmjR1o)
+* [Gmail Integration - Trailhead Module](https://trailhead.salesforce.com/en/content/learn/modules/gmail_integration?trail_id=integrate-salesforce-and-google-platforms)
+* [Integrate Salesforce and Google Platforms - Trailhead Trail](https://trailhead.salesforce.com/en/content/learn/trails/integrate-salesforce-and-google-platforms)
+* [G Suite Integrations with Salesforce - Google Workspace YouTube](https://youtu.be/0Ce0bxmjR1o)
 * [Salesforce Chrome Extension](https://chrome.google.com/webstore/detail/salesforce/jjghhkepijgakdammjldcbnjehfkfmha)
 * [Data Connector for Salesforce](https://gsuite.google.com/marketplace/app/data_connector_for_salesforce/857627895310)
 * [Gmail integration with Zapier](https://zapier.com/apps/gmail/integrations/salesforce)
