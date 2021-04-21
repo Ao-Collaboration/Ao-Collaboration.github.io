@@ -18,7 +18,7 @@ Everything cloud based, seamless syncing, and the intuitive UX/UI that we all kn
 
 Whilst our base recommendation is to always carefully choose the right type of integrations and extesions - something that can get challenging with Google when considering things like privacy and security - we can take a deep breath and relax when it comes to the *integration* with **Salesforce**.
 
-Another very positive aspect of this integration is how far it can go depending on what edition of **Salesforcer** you are using and the different products of the **Google** portfolio. From a simple Gmail + Essentials to a more complex Google Analytics + Marketing Cloud, they have you covered.
+Another very positive aspect of this integration is how far it can go depending on what edition of **Salesforce** you are using and the different products of the **Google** portfolio. From a simple Gmail + Essentials to a more complex Google Analytics + Marketing Cloud, they have you covered.
 <br/>
 <br/>
 
