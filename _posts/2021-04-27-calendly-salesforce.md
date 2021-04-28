@@ -55,8 +55,8 @@ As Calendly meetings are scheduled or canceled, you’ll be able to:
 <br/>
 
 ## Useful Resources
-* [Customize Calendly's Salesforce flow | Calendly HelpDocs](https://help.calendly.com/hc/en-us/articles/360035487554-Customize-Calendly-s-Salesforce-flow)
-* [Salesforce Integration | Calendly HelpDocs](https://help.calendly.com/hc/en-us/articles/223195548-Salesforce)
+* [Customize Calendly's Salesforce flow - Calendly HelpDocs](https://help.calendly.com/hc/en-us/articles/360035487554-Customize-Calendly-s-Salesforce-flow)
+* [Salesforce Integration - Calendly HelpDocs](https://help.calendly.com/hc/en-us/articles/223195548-Salesforce)
 * [Integrate with Zapier](https://zapier.com/apps/calendly/integrations/salesforce)
 * [Integrate with Automate.io](https://automate.io/integration/calendly/salesforce)
 <br/>
