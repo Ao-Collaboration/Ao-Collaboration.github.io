@@ -36,7 +36,7 @@ The advantage of creating workflows with these platforms - especially if you alr
 <br/>
 <br/>
 
-## Default flows included
+### Default flows included
 As Calendly meetings are scheduled or canceled, you’ll be able to:
 * Cancel Event Flow
 * Create Event for Case Flow
