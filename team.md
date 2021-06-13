@@ -22,4 +22,14 @@ Here at Ao Collaboration, she is invested in helping improving processes and ope
 When not at work, Serena can be found initiating novices to the fine art of playing Dungeons and Dragons, cooking food and pairing it with wine, and lecturing people on what ingredients do and do not go on pizza.
 {% endcapture %}
 {% include contact-card.html img="/assets/img/Serena-website.png" name="Serena Cappellini" role="Salesforce Specialist" blurb=serena_content %}
+{% capture ben_content %}
+Ben has a broad knowledge base due to his experience in multiple different industries, being education, technology, retail, event planning, medical devices, as well as being a good dump for useless trivia information.
+<br/><br/>
+He comes with 5 years experience in the Salesforce Eco System, starting out as an in house admin and tech support. He has now decided to further this and is currently studying for his Developer Certification.
+<br/><br/>
+Something that applies both to work and outside of it is that he loves to help people and believes that a collaborative effort will make tasks go more smoothly and achieve better results.
+<br/><br/>
+He is a typical Kiwi bloke who likes to cook and does a really good steak and experiments with different food combinations which shouldn't work but do, just like him!
+{% endcapture %}
+{% include contact-card.html img="/assets/img/Ben-website.jpg" name="Ben Crowhurst" role="Salesforce Specialist" blurb=ben_content %}
 </div>
