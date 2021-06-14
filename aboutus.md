@@ -14,9 +14,9 @@ We are the friendly personal connection to help get Salesforce working for them.
 
 <img class="content-image" src="{{ '/assets/img/Aotearoa.jpg' | relative_url }}">
 
-**Ao** is the Maori word for cloud, to dawn and world.
+**Ao** is the Maori word for cloud, to dawn, and world.
 
 Collaboration is what we do with other businesses. We collaborate with them to help improve their use and adoption of the Salesforce system.
 
-Together Ao Collaboration means "To Collaborate over the Cloud", "A dawn of a new collobration", "Global Collaborations". When said aloud it sounds like "Our" Collaboration.
+Together Ao Collaboration means "To Collaborate over the Cloud", "A dawn of a new collaboration", "Global Collaborations". When said aloud it sounds like "Our" Collaboration.
 
