@@ -36,28 +36,17 @@ title: terms of service
 *	Ao Collaboration seeks to acknowledge all new Client requests within 2 business days when submitted via Slack channel
 *	Response time cannot be guaranteed if requests are sent through via email, voicemail, or text message
 *	Ao Collaboration does not currently offer escalation options
-The Client can access Post-Launch Support in two different ways:
 
-### 5.1	Active Client
+## 6.0 Pricing
 
-* Adding a new project makes the Client Active, gaining access to the fastest turnaround
-*	Post-Launch Support for Active Clients will be billed at the end of each month, at the hourly rate of $82,50 +GST. Time will be measured in increments of 15 minutes
+Our pay-as-you-go hourly rate is $120 + GST.
+We also offer the following Subscription options (all pricing is GST excl.):
+![Integrations Advantages](assets/img/pricing-subscriptions.png)
 
-### 5.2	Support Retainer
+Optional Extras:
+![Integrations Advantages](assets/img/pricing-extras.png)
 
-*	Where no further projects are planned, the Client can opt in for a Support Retainer, starting from a minimum of $165 + GST per month for 2 hours of support
-*	Support Retainer packages are to be paid at the beginning of the month, and are valid until the end of that month
-*	Support Retainer packages do not carry over unused hours
-*	Support Retainer packages can be updated at given moment, as long as the Client gives a minimum of 5 business days’ notice before the following billing cycle
-
-### 5.3	Inactive Client
-
-*	A Client not choosing either of the above options after the end of the In-Scope Support will be flagged as Inactive
-*	Inactive Clients will not get access to the fastest turnaround, meaning that Active Clients and Clients with Support Retainers will have priority over them
-*	Inactive Clients will be billed at the end of each month, at the casual hourly rate of $110 + GST. Time will be measured in increments of 15 minutes and it will include any admin related to the request
-*	An Inactive Client can choose to opt in for a Support Retainer at any moment, the Support Retainer will kick in with a 4-weeks delay
-
-## 6.0	Billing
+## 7.0	Billing
 
 *	Any changes to project costs will be discussed with the Client and documented
 *	A final cost estimate will be provided at the end of the scoping phase
@@ -67,6 +56,6 @@ The Client can access Post-Launch Support in two different ways:
 *	All projects will need a 40% Deposit at the beginning of the job, and the rest will be billed at project launch
 *	Particularly big or complex projects that require an Agile approach will require for Ao Collaboration and the Client to agree on a preferred payment plan prior to the start of the project (i.e. instalments, hourly rate)
 
-## 7.0	Payments
+## 8.0	Payments
 
 Payments can be made via bank transfer, details are given once the collaboration has started.
