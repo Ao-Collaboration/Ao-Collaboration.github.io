@@ -41,9 +41,11 @@ title: terms of service
 
 Our pay-as-you-go hourly rate is $120 + GST.
 We also offer the following Subscription options (all pricing is GST excl.):
+
 ![Integrations Advantages](assets/img/pricing-subscriptions.png)
 
 Optional Extras:
+
 ![Integrations Advantages](assets/img/pricing-extras.png)
 
 ## 7.0	Billing
