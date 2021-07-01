@@ -18,7 +18,9 @@ navbar-links:
 footer-links:
   Terms of Service: "termsofservice"
   Privacy Policy: "privacypolicy"
+  Pricing: "pricing"
   Meet the Team: "team"
+  
 
 # --- Logo --- #
 
