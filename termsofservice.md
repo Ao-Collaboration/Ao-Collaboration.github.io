@@ -42,6 +42,7 @@ title: terms of service
 Our pay-as-you-go hourly rate is $120 + GST.
 We also offer the following Subscription options (all pricing is GST excl.):
 
+### subscriptions
 
 |                      | Data Helper                 | Admin Assist                | Collab Guru                 |
 |                      | $99 per month               | $950 per month              | $3,600 per month            |
@@ -60,7 +61,7 @@ We also offer the following Subscription options (all pricing is GST excl.):
 <br/>
 
 
-## extras
+### extras
 
 |                            | $94                         | $89.25                      | $80.75                      |
 | -------------------------- |----------------------------:| ---------------------------:| ---------------------------:|
