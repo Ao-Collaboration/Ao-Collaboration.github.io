@@ -20,7 +20,9 @@ cover-img: assets/img/main-header.png
 
 
 all pricing is GST exclusive.
-Our casual rate is $120.00 per hour. [Click here to read the full Terms of Service](/termsofservice/).
+Our casual rate is $120.00 per hour. 
+
+[Click here to read the full Terms of Service](/termsofservice/).
 <br/>
 <br/>
 
