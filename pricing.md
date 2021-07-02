@@ -26,12 +26,14 @@ cover-img: assets/img/main-header.png
 
 ## extras
 
-|                            | $94                         | $89.25                      | $80.75                      |
-| -------------------------- |----------------------------:| ---------------------------:| ---------------------------:|
-| Additional Hourly Discount | $10                         | $15                         | $25                         |
-| Additional Hourly Rate     | $110                        | $105                        | $95                         |
-| On-call add-ons            | No                          | Extended NZ business hours  | Extended NZ business hours  |
-|                            |                             | Overtime hours              | Overtime hours              |
+|                               | $94                         | $89.25                      | $80.75                      |
+| ----------------------------- |----------------------------:| ---------------------------:| ---------------------------:|
+| Additional Hourly Discount ** | $10                         | $15                         | $25                         |
+| Additional Hourly Rate        | $110                        | $105                        | $95                         |
+| On-call add-ons               | No                          | Extended NZ business hours  | Extended NZ business hours  |
+|                               |                             | Overtime hours              | Overtime hours              |
+
+ ** discount on casual hourly rate
 
 <br/>
 
