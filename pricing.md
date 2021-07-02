@@ -18,7 +18,7 @@ cover-img: assets/img/main-header.png
 | Meetings                   | annual                      | monthly                     | monthly                     |
 | Reports                    | quarterly                   | monthly                     | weekly                      |
 | Newsletter                 | yes                         | yes                         | yes                         |
-| Om-call                    | Standard NZ business hours  | Standard NZ business hours  | Standard NZ business hours  | 
+| On-call                    | Standard NZ business hours  | Standard NZ business hours  | Standard NZ business hours  | 
 
  * initial Collab session
 <br/>
