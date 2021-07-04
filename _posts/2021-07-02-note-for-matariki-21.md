@@ -8,7 +8,7 @@ share-img: assets/img/matariki-note.jpg
 tags: [Founder's Note, State of the Ao, Matariki]
 ---
 
-With this year's Matariki we've sat down and revamped our [services and prices](/pricing/), starting this new year with renewed intent and a clearer path for our company.
+With this year's Matariki we've sat down and revamped our [services and prices](https://aocollab.tech/pricing/), starting this new year with renewed intent and a clearer path for our company.
 
 On a more personal level, at Ao Collaboration we are also on a journey of learning about te ao Māori, tikanga, and te reo Māori. Learning and connecting with my heritage has become increasingly important to me and this time of year has got us asking what Matariki is, and more importantly what it means to us.
 
