@@ -21,7 +21,7 @@ Although this year's gatherings were unintentional, I hope to be able to start n
 Regardless, it has been a wonderful weekend of gatherings.
 
 > Matariki hunga nui. Matariki of many people.
-- Matariki, The Star of the Year by Rangi Matamua
+*Matariki, The Star of the Year by Rangi Matamua*
 
 Celebrating the passing of one year and the hope of a new one.
 <br/>
