@@ -24,4 +24,8 @@ Regardless, it has been a wonderful weekend of gatherings.
 *Matariki, The Star of the Year by Rangi Matamua*
 
 Celebrating the passing of one year and the hope of a new one.
+
+{:refdef: style="text-align: center;"}
+![slack salesforce integration]({{ 'assets/img/matariki-note.jpg' | relative_url }})
+{:refdef}
 <br/>
