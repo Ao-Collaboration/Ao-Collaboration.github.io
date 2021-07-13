@@ -56,6 +56,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
   font-size: 2.25rem;
+  color: #3287C1;
 }
 h2 {
   font-size: 1.875rem;
@@ -453,7 +454,7 @@ footer .footer-custom-content {
 /* --- Post preview --- */
 
 .posts-list {
-  margin-top: 10em;
+  margin-top: 0;
 }
 
 .post-preview {
@@ -992,4 +993,10 @@ img.content-image {
   float: right;
   width: 350px;
   padding-left: 10px;
+}
+
+/* Generic helper */
+
+.no-top-margin {
+  margin-top: 0 !important;
 }

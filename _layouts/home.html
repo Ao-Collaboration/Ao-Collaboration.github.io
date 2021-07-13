@@ -10,7 +10,7 @@ layout: page
 
 {% if posts %}
 <div class="posts-list">
-  <hr class="small" />
+  <hr class="small no-top-margin" />
   {% for post in posts limit: 3 %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
