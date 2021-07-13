@@ -24,7 +24,7 @@ share-img: assets/img/our-approach-share.jpg
 ## Why is your Salesforce journey safe with us
 
 {:refdef: style="text-align: center;"}
-![Salesforce Journey]({{ 'assets/img/safe-journey.jpgg' | relative_url }})
+![Salesforce Journey]({{ 'assets/img/safe-journey.jpg' | relative_url }})
 {:refdef}
 
 
