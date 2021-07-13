@@ -12,6 +12,7 @@ share-img: assets/img/our-approach-share.jpg
 
 <br/>
 <br/>
+
 # Your friendly personal connection to help get Salesforce working for you.
 
 <br/>
