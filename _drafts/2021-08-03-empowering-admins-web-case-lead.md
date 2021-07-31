@@ -3,9 +3,9 @@ layout: post
 title: Empowering Admins | web-to-case and web-to-lead
 subtitle: Provide Web Forms and Guidelines for Setting Up Web-to-Lead
 cover-img: assets/img/Empowering-Admins-CoverV2.jpg
-thumbnail-img: 
-share-img: 
-tags: [Empowering Admins, Guides, Lightning]
+thumbnail-img: assets/img/empowering-admins-share.jpg
+share-img: assets/img/empowering-admins-share.jpg
+tags: [Empowering Admins, Guides, Lightning, Service Cloud, Sales Cloud]
 ---
 
 ## Capture cases from your own website with the Web-to-Case function
