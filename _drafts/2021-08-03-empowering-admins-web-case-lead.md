@@ -2,6 +2,7 @@
 layout: post
 title: Empowering Admins | web-to-case and web-to-lead
 subtitle: Provide customer service with Web Forms and generate Leads from your website
+seo-description: Provide customer service and generate Salesforce cases with Web Forms (Web-to-Case function) and generate Salesforce Leads from your website (Web-to-Lead function)
 cover-img: assets/img/Empowering-Admins-CoverV2.jpg
 thumbnail-img: assets/img/empowering-admins-share.jpg
 share-img: assets/img/empowering-admins-share.jpg
