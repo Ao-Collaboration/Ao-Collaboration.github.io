@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Empowering Admins | web-to-case and web-to-lead
-subtitle: Provide Web Forms and Guidelines for Setting Up Web-to-Lead
+subtitle: Provide customer service with Web Forms and generate Leads from your website
 cover-img: assets/img/Empowering-Admins-CoverV2.jpg
 thumbnail-img: assets/img/empowering-admins-share.jpg
 share-img: assets/img/empowering-admins-share.jpg
