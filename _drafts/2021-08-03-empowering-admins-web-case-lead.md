@@ -25,13 +25,28 @@ It works by generating a snippet of HTML, and it has the sweet ability to add re
 * Whenever possible, web-generated cases are automatically linked to the relevant contact account based on the customer’s email address with Web-to-Case
 * Salesforce will run field validation rules before creating records submitted via Web-to-Case
 
-## 
+## Gather visitors' information and turn them into leads with the Web-to-Lead function
+Getting people to visit your website and keeping them longer is a key component of digital marketing. Once they visit your website you want them to turn into new leads for your marketing and sales teams. That’s where the Salesforce **Web-to-Lead** forms come into the picture.
+
+It allows a way for you to create a lead record in Salesforce from a form you publish on your website, and the best way to get feedback on your product and services or grow your marketing database. Lastly, much like the previously introduced **Web-to-Case**, it has the sweet ability to add reCAPTCHA.
+
+### Prerequisites
+* Salesforce Classic (not available in all orgs) and Lightning Experience
+* Group, Professional, Enterprise, Performance, Unlimited, and Developer Editions
+
+### Notes and Limitations
+* The format for date and currency fields captured online is taken from your organization’s default settings - `Default Locale and Currency Locale`
+* The daily limit for Web-to-Lead requests is 500. After that, the Default Lead Creator (specified in the Web-to-Lead setup page) receives an email containing the additional lead information
+* Before creating records submitted via Web-to-Lead, Salesforce runs field validation rules. If any field values are invalid, no lead record is created
+* All universally required fields must have a value before a record can be created via Web-to-Lead
+* Salesforce doesn’t support rich text area (RTA) fields on Web-to-Lead forms. If you use RTA fields on your forms, any information entered in them is saved as plain text when the lead is created
+* Web-to-Lead forms don’t validate the email address field. To validate email addresses of web-generated leads, create a validation rule for the Email field on leads
 
 
 
 ## Useful Resources
 * [Provide Web Forms with Web-to-Case](https://help.salesforce.com/articleView?id=sf.customize_casecapture.htm&type=5)
 * [Guidelines for Setting Up Web-to-Lead](https://help.salesforce.com/articleView?id=sf.customize_leadpreparation.htm&type=5)
-* []()
-* []()
+* [Engage Customers with Service Cloud - Trailhead Module](https://trailhead.salesforce.com/en/content/learn/modules/service_digital_engagement/service_digital_cloud)
+* [Lead Generation for Marketers - Trailhead Module](https://trailhead.salesforce.com/en/content/learn/modules/lead-generation-for-marketers)
  
