@@ -12,7 +12,7 @@ tags: [Empowering Admins, Guides, Lightning, Service Cloud, Sales Cloud]
 ## Capture cases from your own website with the Web-to-Case function
 Setting up your support platform is one of the very first steps towards a great customer experience - definitely a key requirement more than a 'nice to have'. While emails and phone always seem to do the trick, it's important to make sure you give your clients as many touch points as you can. With that in mind, including your website in your touch points makes for a nice addition, even before you consider portals and chats.
 
-With Salesforce **Web-to-Case** (Service Cloud) you can gather customer support requests directly from your company’s website, it works by generating a snippet of HTML. This can help your organization respond to customers faster while improving your support team’s productivity. Keep in mind that Web-to-Case is exclusively a tool for the initial submission of cases, and that customers will not be able to see the status of their case submission.
+With Salesforce **Web-to-Case** you can gather customer support requests directly from your company’s website, it works by generating a snippet of HTML. This can help your organization respond to customers faster while improving your support team’s productivity. Keep in mind that Web-to-Case is exclusively a tool for the initial submission of cases, and that customers will not be able to see the status of their case submission.
 
 It works by generating a snippet of HTML, and it has the sweet ability to add reCAPTCHA to help limit the much dreaded spam.
 
@@ -42,6 +42,11 @@ It allows a way for you to create a lead record in Salesforce from a form you pu
 * All universally required fields must have a value before a record can be created via Web-to-Lead
 * Salesforce doesn’t support rich text area (RTA) fields on Web-to-Lead forms. If you use RTA fields on your forms, any information entered in them is saved as plain text when the lead is created
 * Web-to-Lead forms don’t validate the email address field. To validate email addresses of web-generated leads, create a validation rule for the Email field on leads
+
+## Conclusion
+Both **Web-to-Case** and the **Web-to-Lead** functions are *must haves* for your service and sales teams and they make for great automation foundations by redirecting basic customer touchpoints to the right places. In the next **Empowering Admins** articles we will dive into the nitty gritty and go over tutorials for both of them.
+
+Stay tuned.
 
 
 
