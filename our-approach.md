@@ -51,7 +51,7 @@ At the end of the creative cicle, we test it all out to make sure we got rid of 
 <br/><br/>
 
 # our certifications
-![Salesforce Certified Administrator](assets/img/CERT_Admin.jpg)
+![Salesforce Certified Administrator](assets/img/SF-Certified_Administrator-400x400.png)
 <br/><br/>
 
 # want to have a chat with us?
