@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Get a Free Ao Collaboration Org Self Assessment Tool
-subtitle: Take this simple self assessment tool to see how well you have implemented your Salesforce org.
+title: get a FREE org self-assessment tool
+subtitle: Take this simple self-assessment tool to see how well you have implemented your Salesforce org.
 cover-img: assets/img/main-header.png 
 ---
 
