@@ -13,7 +13,7 @@ She started with Salesforce as an in-house admin, then studying and freelancing 
 <br/><br/>
 Outside of work, Kate loves spending time with her family, and encouraging her kids on their individual paths. Thanks to the Lockdowns of 2020, indoor plants and Animal Crossing have also become fixtures in her life.
 {% endcapture %}
-{% include contact-card.html img="/assets/img/Kate-website.png" name="Kate Standen" role=" Founder, Salesforce Consultant" blurb=kate_content %}
+{% include contact-card.html img="/assets/img/Kate-website.png" name="Kate Standen" role=" CEO, Salesforce Consultant" blurb=kate_content %}
 {% capture serena_content %}
 Serena comes from 15+ years of customer experience across many different sectors, including SaaS and web agencies.
 <br/><br/>
@@ -21,7 +21,7 @@ Here at Ao Collaboration, she is invested in helping improving processes and ope
 <br/><br/>
 When not at work, Serena can be found initiating novices to the fine art of playing Dungeons and Dragons, cooking food and pairing it with wine, and lecturing people on what ingredients do and do not go on pizza.
 {% endcapture %}
-{% include contact-card.html img="/assets/img/Serena-website.png" name="Serena Cappellini" role="Salesforce Specialist" blurb=serena_content %}
+{% include contact-card.html img="/assets/img/Serena-website.png" name="Serena Cappellini" role="Operations and Marketing" blurb=serena_content %}
 {% capture ben_content %}
 Ben has a broad knowledge base due to his experience in multiple different industries, being education, technology, retail, event planning, medical devices, as well as being a good dump for useless trivia information.
 <br/><br/>
