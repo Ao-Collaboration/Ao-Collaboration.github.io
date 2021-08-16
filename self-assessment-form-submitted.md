@@ -7,7 +7,7 @@ cover-img: assets/img/main-header.png
 <meta name="googlebot" content="noindex">
 
 
-<a href="assets/ao-self-assessment-tool.pdf" download><img src="assets/icons/download.png" alt="Download Now"></a>
+<a href="assets/ao-self-assessment-tool.pdf" download><img src="https://aocollab.tech/assets/icons/download.png" alt="Download Now"></a>
 
 <br/>
 <br/>
