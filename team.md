@@ -2,6 +2,8 @@
 layout: page
 title: the team
 subtitle: Meet our exceptionally talented team of specialists.
+description: Meet our exceptionally talented team of specialists.
+seo-description: Meet the Ao Collaboration Team
 cover-img: assets/img/main-header.png 
 ---
 
