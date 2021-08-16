@@ -1,6 +1,7 @@
 ---
 layout: page
 title: our approach
+seo-description: we work to make the platform work for the business by adapting it to its already existing processes.
 cover-img: assets/img/main-header.png
 share-img: assets/img/our-approach-share.jpg
 ---
