@@ -7,8 +7,11 @@ cover-img: assets/img/main-header.png
 <meta name="googlebot" content="noindex">
 
 {:refdef: style="text-align: center;"}
-![tickbox]({{ 'assets/icons/icons8-email-send-100.png' | relative_url }})
+![download icon]({{ 'assets/icons/download.png' | relative_url }})
 {:refdef}
+
+
+[Download Now](url)
 
 <br/>
 <br/>
