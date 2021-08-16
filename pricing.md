@@ -2,6 +2,7 @@
 layout: page
 title: pricing
 subtitle: A list of our available options, from casual rates to subscriptions with extra packages.
+seo-description: a list of our available options, from casual rates to subscriptions with extra packages.
 cover-img: assets/img/main-header.png 
 ---
 
