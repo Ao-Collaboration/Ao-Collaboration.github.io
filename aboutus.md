@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about us
+seo-description: we are the friendly personal connection to help get Salesforce working for emerging and small businesses across New Zealand.
 cover-img: assets/img/main-header.png
 ---
 
