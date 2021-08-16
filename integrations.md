@@ -1,7 +1,8 @@
 ---
 layout: page
 title: integration solutions
-subtitle: seamless integration unlocks efficiency gains
+subtitle: seamless integration unlocks efficiency gains.
+sdeo-subtitle: helping you integrate Salesforce with other systems seamlessly is an absolute priority for us.
 cover-img: assets/img/main-header.png
 share-img: assets/img/integrations-page-share.jpg
 ---
