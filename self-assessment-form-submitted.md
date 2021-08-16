@@ -6,14 +6,8 @@ cover-img: assets/img/main-header.png
 ---
 <meta name="googlebot" content="noindex">
 
-{:refdef: style="text-align: center;"}
-![download icon]({{ 'assets/icons/download.png' | relative_url }})
-{:refdef}
 
-
-[Download Now](url)
-
-<a href="assets/ao-self-assessment-tool.pdf" download>Download link text</a>
+<a href="assets/ao-self-assessment-tool.pdf" download><img src="assets/icons/download.png" alt="Download Now"></a>
 
 <br/>
 <br/>
