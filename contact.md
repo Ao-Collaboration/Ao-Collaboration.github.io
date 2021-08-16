@@ -1,6 +1,7 @@
 ---
 layout: page
 title: contact us
+seo-description: ao collaboration is a digital company without a fixed office. We're here to support any New Zealand company, no matter where you are.
 cover-img: assets/img/main-header.png 
 ---
 
