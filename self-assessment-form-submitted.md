@@ -13,5 +13,7 @@ cover-img: assets/img/main-header.png
 
 [Download Now](url)
 
+<a href="assets/ao-self-assessment-tool.pdf" download>Download link text</a>
+
 <br/>
 <br/>
