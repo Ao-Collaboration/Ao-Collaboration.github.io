@@ -14,7 +14,8 @@ She started with Salesforce as an in-house admin, then studying and freelancing 
 <br/><br/>
 Outside of work, Kate loves spending time with her family, and encouraging her kids on their individual paths. Thanks to the Lockdowns of 2020, indoor plants and Animal Crossing have also become fixtures in her life.
 {% endcapture %}
-{% include contact-card.html img="/assets/img/Kate-website.png" name="Kate Standen" role=" CEO, Salesforce Consultant" blurb=kate_content %}
+{% include contact-card.html img="/assets/img/Kate-website.png" name="Kate Standen" role="CEO, Salesforce Consultant" blurb=kate_content %}
+
 {% capture serena_content %}
 Serena comes from 15+ years of customer experience across many different sectors, including SaaS and web agencies.
 <br/><br/>
@@ -23,6 +24,7 @@ Here at Ao Collaboration, she is invested in helping improving processes and ope
 When not at work, Serena can be found initiating novices to the fine art of playing Dungeons and Dragons, cooking food and pairing it with wine, and lecturing people on what ingredients do and do not go on pizza.
 {% endcapture %}
 {% include contact-card.html img="/assets/img/Serena-website.png" name="Serena Cappellini" role="Operations and Marketing" blurb=serena_content %}
+
 {% capture ben_content %}
 Ben has a broad knowledge base due to his experience in multiple different industries, being education, technology, retail, event planning, medical devices, as well as being a good dump for useless trivia information.
 <br/><br/>
@@ -33,4 +35,16 @@ Something that applies both to work and outside of it is that he loves to help p
 He is a typical Kiwi bloke who likes to cook and does a really good steak and experiments with different food combinations which shouldn't work but do, just like him!
 {% endcapture %}
 {% include contact-card.html img="/assets/img/Ben-website.jpg" name="Ben Crowhurst" role="Salesforce Specialist" blurb=ben_content %}
+
+{% capture michael_content %}
+Michael is a software engineer with over a decade of experience across a broad range of enterprise applications.
+<br/><br/>
+Growing up Michael always knew he wanted to work with computers. He followed that passion through schooling and graduated University with an Honours degree in Engineering.
+<br/><br/>
+Entering the workforce, Michael had a plan to try out all areas of software development - front end, back end, architecture, you name it - in the hopes he would discover a niche. What he learnt over that time was that he most enjoyed the feeling of delivering value to customers no matter what that involved.
+<br/><br/>
+Outside of work, Michael spends his time tinkering with new and emerging technologies. Having recently discovered blockchain development, he is working on creating integrations with prominant DAOs in the field. 
+{% endcapture %}
+{% include contact-card.html img="/assets/img/Michael-website.jpg" name="Michael Standen" role="CTO, Software Engineer" blurb=michael_content %}
+
 </div>
