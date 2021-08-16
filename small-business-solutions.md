@@ -2,7 +2,7 @@
 layout: page
 title: small business solutions
 cover-img: assets/img/main-header.png
-share-title: Solutions for New Zealand Small Businesses | Ao Collaboration
+seo-description: solutions for New Zealand emerging and small businesses.
 share-img: assets/img/sme-share.jpg
 accordion: 
   - title: Salesforce Essentials
