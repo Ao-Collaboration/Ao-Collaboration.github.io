@@ -13,6 +13,7 @@ navbar-links:
   Resources:
     - Blog Posts: "posts"
     - Tags: "tags"
+    - Free self-assessment tool: "self-assessment-salesforce"
   Contact: "contact"
 
 footer-links:
