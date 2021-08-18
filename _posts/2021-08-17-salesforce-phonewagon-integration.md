@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Integrations | PhoneWagon and Salesforce
-subtitle: 
+subtitle: Give your sales and marketing teams a competitive edge with this rich integration.
 cover-img: assets/img/integrations-cover-v2.jpg
 thumbnail-img: assets/img/2021-08-18-salesforce-phonewagon.jpg
 share-img: assets/img/2021-08-18-salesforce-phonewagon-v1.jpg
