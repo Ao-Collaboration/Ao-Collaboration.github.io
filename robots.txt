@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /form-thankyou
+Disallow: /form-thankyou/
+Disallow: /self-assessment-form-submitted
+Disallow: /self-assessment-form-submitted/
