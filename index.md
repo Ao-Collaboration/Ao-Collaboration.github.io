@@ -1,7 +1,7 @@
 ---
 layout: home
 share-title: Ao Collaboration | Salesforce Experts in New Zealand
-seo-description: Your friendly personal connection to help get Salesforce working for you.
+seo-description: Ao Collaboration | Salesforce Experts | Consulting agency based in Auckland New Zealand
 show-avatar: false
 share-img: assets/img/our-approach-share.jpg
 ---
