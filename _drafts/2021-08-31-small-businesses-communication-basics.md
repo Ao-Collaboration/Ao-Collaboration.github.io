@@ -12,6 +12,6 @@ tags: [Small Businesses, Marketing, Communication, Salesforce]
 
 
 {:refdef: style="text-align: center;"}
-![slack salesforce integration]({{ '' | relative_url }})
+![slack salesforce integration]({{ 'assets/img/2021-08-31-sme-communication-01.jpg' | relative_url }})
 {:refdef}
 <br/>
