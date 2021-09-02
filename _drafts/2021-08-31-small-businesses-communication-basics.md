@@ -19,18 +19,41 @@ With the right tools and processes you will be able to expand your lead and cust
 
 This is our practical, step-by-step guide to help you setup and implement your *Marketintg Strategy*.
 
+{:refdef: style="text-align: center;"}
+![slack salesforce integration]({{ 'assets/img/2021-08-31-sme-communication-01.jpg' | relative_url }})
+{:refdef}
+
 ## Step 1: Create your Marketing Strategy
 
+With dozens of tools available and plenty of integration options for your **Salesforce** org, it's easy for your budget to inflate exponentially. Before you even consider that, it's important to find out what you want to achieve: that will tell you what you need to be considering for your strategy execution.
+
+Most guides (even the great ones!) will tell you to start identifying your marketing strengths and weaknesses and start from there. Do you have well-nurtured email list? Focus on email marketing. Do you have plenty of followers on LinkedIn, Facebook, even TikTok for business? Then let's get going with social media campaigns! Alright, that's very true and you should definitely do that.
+
+But what if I am starting from scratch and I have nothing? Glad you asked. Here's the first few steps will help you make sense of the marketing maze, none of them will cost you a dime unless you want to:
+
+1. *get your website ducks in a row.*<br/>
+Digital marketing is, in the end, a complex and multi-faceted system that takes your prospects by hand and takes them to close a deal with you. Typically, that's done on your website, so before you go off sprinkling top dollars on anything else, make sure your website tells a clear story and the user experience is top notch.
+2. *make sure you are using all the SEO tricks you can*<br/>
+Do not underestimate the importance of good SEO. We even recommend you take a quick course on technical SEO (you do not need to be a developer!), it surely pays off and it sets you up with building good habits early on.
+3. *look at your direct competition for social media presence*<br/>
+Pay extra care to the ones who operate in your same area and have the same type of buyer persona (semi-fictional representation of your ideal customer) and see what they're up to. Chances are that if they're on Instagram and they're doing well, you should be on Instagram too!
+4. *get your website ducks in a row.*<br/>
+<br/>
+
 ## Step 2: 
+<br/>
 
 ## Step 3: 
+<br/>
 
 ## Step 4: 
+<br/>
 
 ## Step 5: 
+<br/>
 
 
 {:refdef: style="text-align: center;"}
-![slack salesforce integration]({{ 'assets/img/2021-08-31-sme-communication-01.jpg' | relative_url }})
+![slack salesforce integration]({{ '' | relative_url }})
 {:refdef}
 <br/>
