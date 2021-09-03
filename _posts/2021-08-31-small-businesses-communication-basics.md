@@ -40,7 +40,7 @@ With dozens of tools available and plenty of integration options for your **Sale
 
 Most guides (even the great ones!) will tell you to start identifying your marketing strengths and weaknesses and start from there. Do you have a well-nurtured email list? Focus on email marketing. Do you have plenty of followers on LinkedIn, Facebook, even TikTok for business? Then let's get going with social media campaigns! Alright, that's very true and you should definitely do that.
 
-But what if I am starting from scratch and I have nothing? Glad you asked. Here's the first few steps will help you make sense of the marketing maze, none of them will cost you a dime unless you want to:
+But what if I am starting from scratch and I have nothing? Glad you asked. Here's the first few steps that will help you make sense of the marketing maze, none of which will cost you a dime unless you want them to:
 
 1. *Get your website ducks in a row*<br/>
 Digital marketing is, in the end, a complex and multi-faceted system that takes your prospects by hand and takes them to close a deal with you. Typically, that's done on your website, so before you go off sprinkling top dollars on anything else, make sure your website tells a clear story and the user experience is top notch.
