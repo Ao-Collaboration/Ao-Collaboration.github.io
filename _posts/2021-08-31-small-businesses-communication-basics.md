@@ -38,7 +38,7 @@ Thinking of what you want to say and how you want to say it comes first. It can 
 
 With dozens of tools available and plenty of integration options for your **Salesforce** org, it's easy for your budget to inflate exponentially. Before you even consider that, it's important to find out what you want to achieve: that will tell you what you need to be considering for your strategy execution.
 
-Most guides (even the great ones!) will tell you to start identifying your marketing strengths and weaknesses and start from there. Do you have well-nurtured email list? Focus on email marketing. Do you have plenty of followers on LinkedIn, Facebook, even TikTok for business? Then let's get going with social media campaigns! Alright, that's very true and you should definitely do that.
+Most guides (even the great ones!) will tell you to start identifying your marketing strengths and weaknesses and start from there. Do you have a well-nurtured email list? Focus on email marketing. Do you have plenty of followers on LinkedIn, Facebook, even TikTok for business? Then let's get going with social media campaigns! Alright, that's very true and you should definitely do that.
 
 But what if I am starting from scratch and I have nothing? Glad you asked. Here's the first few steps will help you make sense of the marketing maze, none of them will cost you a dime unless you want to:
 
