@@ -32,6 +32,7 @@ Thinking of what you want to say and how you want to say it comes first. It can 
 * How much money are you willing to spend on marketing? Set a conservative number and stick to it. Review after 3 to 6 months depending on results and goals.
 * Polish your branding. Do you have a **logo** and a **colour palette**? Stick to it! There are some great resources to help you create some designs (without needing to be a Photoshop guru), make sure you use them! It also helps to have a few templates with your logo and colours at the ready, for example an image template or stock images that align with the rest of your assets. [Pexels is a good tool for free stock images](https://www.pexels.com/), and [BeFunky is a nice photo editor /  graphic designer web tool](https://www.befunky.com/create/) with a very gentle learning curve.
 <br/>
+<br/>
 
 ## Step 2: Create your Digital Presence
 
@@ -62,6 +63,7 @@ The **Editorial Calendar** allows you to figure out what you want to talk about 
 
 Let us tell you loud and clear: this tool will become your best friend especially when you get busy and marketing slides down your priorities list. The thing about marketing is that it's an infinite game and dropping in and out will do more damage than not starting at all. With this in mind, you are ready to take the next step.
 <br/>
+<br/>
 
 ## Step 4: Create Content
 This is a long game, and also a no brainer. **Content Marketing** is the most effective way to grow your audience and generate new leads organically. It comes with a hefty opportunity cost though, so be aware of that: it might be free, but it can be time consuming especially when done right.
@@ -90,4 +92,4 @@ Here is a list of different types of content you will want to consider. You may 
 ## Step 5: Decide where to draw the line between doing it all, hiring a marketing specialist, or involve an agency
 This, only you can know. You might find you or someone else in your team enjoys tackling these marketing tasks and it fits well with the rest of their duties, or you might find that you are just not interested in trying to juggle it all between the already existing and busy hands. Know when it's time to get external help and evaluate pros and cons for hiring in house or choose a consulting agency that can handle your workload more cost effectively.
 <br/>
-
+<br/>
