@@ -51,6 +51,10 @@ Pay extra care to the ones who operate in your same area and have the same type 
 In some circumstances you will only neeed to claim the business and fill all the details. It will help you manage your business presence across Google, including Search and Maps, and being free there is absolutely no reason not to do it. It's also handy to work seamlessly across other Google platforms such as AdWords, should you choose to do it at a later stage (and you should).
 <br/>
 
+{:refdef: style="text-align: center;"}
+![slack salesforce integration]({{ 'assets/img/2021-08-31-sme-communication-03.jpg' | relative_url }})
+{:refdef}
+
 ## Step 3: Create your Editorial Calendar
 This is really simple. If you have never had one don't worry, there is plenty of free templates you can use to create your very first one. Here is a very [simple Editorial Calendar from Salesforce, available on their Pardot website](https://www.pardot.com/content-marketing/quick-easy-editorial-calendar-template/).
 
@@ -78,13 +82,12 @@ Here is a list of different types of content you will want to consider. You may 
 * Podcasts
 <br/>
 
+{:refdef: style="text-align: center;"}
+![slack salesforce integration]({{ 'assets/img/2021-08-31-sme-communication-02.jpg' | relative_url }})
+{:refdef}
+
 
 ## Step 5: Decide where to draw the line between doing it all, hiring a marketing specialist, or involve an agency
 This, only you can know. You might find you or someone else in your team enjoys tackling these marketing tasks and it fits well with the rest of their duties, or you might find that you are just not interested in trying to juggle it all between the already existing and busy hands. Know when it's time to get external help and evaluate pros and cons for hiring in house or choose a consulting agency that can handle your workload more cost effectively.
 <br/>
 
-
-{:refdef: style="text-align: center;"}
-![slack salesforce integration]({{ '' | relative_url }})
-{:refdef}
-<br/>
