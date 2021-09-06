@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Empowering Admins Tutorial | web-to-case and web-to-lead
-subtitle: A deeper dive into the web-to-case and web-to-lead functions. Learn the ropes with this tutorial.
-seo-description: A deeper dive into the web-to-case and web-to-lead functions. Learn the ropes with this tutorial.
+title: Empowering Admins | Setup Facebook Lead integration into Salesforce
+subtitle: 
+seo-description: 
 cover-img: assets/img/Empowering-Admins-CoverV2.jpg
 thumbnail-img: assets/img/empowering-admins-share.jpg
 share-img: assets/img/empowering-admins-share.jpg
