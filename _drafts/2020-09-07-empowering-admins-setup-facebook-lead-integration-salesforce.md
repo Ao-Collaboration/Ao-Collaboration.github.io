@@ -6,7 +6,7 @@ seo-description: A deeper dive into the web-to-case and web-to-lead functions. L
 cover-img: assets/img/Empowering-Admins-CoverV2.jpg
 thumbnail-img: assets/img/empowering-admins-share.jpg
 share-img: assets/img/empowering-admins-share.jpg
-tags: [Empowering Admins, Guides, Lightning, Service Cloud, Sales Cloud, Tutorial]
+tags: [Empowering Admins, Guides, Integration, Facebook]
 ---
 
 {:refdef: style="text-align: center;"}
