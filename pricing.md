@@ -12,7 +12,7 @@ cover-img: assets/img/main-header.png
 |                             | $99 per month               | $950 per month              | $3,600 per month            |
 | --------------------------- | ---------------------------:| ---------------------------:| ---------------------------:|
 | Hourly Rate                 | $99                         | $95                         | $90                         |
-| Hours Included              | 1                           | 2                           | 10                          |
+| Hours Included              | 1                           | 10                          | 40                          |
 | Rollover Max                | 2 hours                     | 20                          | 60                          |
 | Mahi Tahi **                | 2 hours                     | half day                    | full day                    |
 | Initial Collab Audit        | basic                       | average                     | full                        |
