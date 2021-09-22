@@ -60,7 +60,7 @@ Never miss a beat with your customer interactions thanks to real-time insights. 
 
 ## Extra: The Marketer's Field Guide by Salesforce
 
-[![Marketers Field Guide by Salesforce](https://github.com/Ao-Collaboration/Ao-Collaboration.github.io/blob/f0c73db383adc5d63d476d269b56826a26a11db9/assets/img/2021-09-21-marketer=guide-salesforce.jpg)](https://www.salesforce.com/content/dam/web/en_us/www/assets/pdf/datasheets/mc-marketing-fieldguide-customer-trailblazer.pdf)
+![Marketers Field Guide by Salesforce](https://github.com/Ao-Collaboration/Ao-Collaboration.github.io/blob/f0c73db383adc5d63d476d269b56826a26a11db9/assets/img/2021-09-21-marketer=guide-salesforce.jpg)](https://www.salesforce.com/content/dam/web/en_us/www/assets/pdf/datasheets/mc-marketing-fieldguide-customer-trailblazer.pdf)
 <br/>
 <br/>
 
