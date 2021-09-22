@@ -67,3 +67,6 @@ Never miss a beat with your customer interactions thanks to real-time insights. 
 ## Additional Resources
 * [Marketing Cloud Setup - Salesforce Help site](https://help.salesforce.com/s/articleView?id=sf.mc_overview_administration.htm&type=5)
 * [Marketing Cloud Product Demos - YouTube](https://youtube.com/playlist?list=PLnobS_RgN7JZllqFqitI4LQMGI0oE5AYL)
+<br/>
+<br/>
+
