@@ -2,7 +2,7 @@
 layout: post
 title: Marketing Cloud Overview
 subtitle: Salesforce Marketing Cloud - a feature-rich marketing automation platform that helps you succeed with customer engagement and personalised experience.
-cover-img: /assets/img/2020-11-30coverV6.jpg
+cover-img: assets/img/main-header.png
 thumbnail-img: /assets/img/2020-11-30Thumb.jpg
 share-img: /assets/img/2020-11-30coverV6.jpg
 tags: [Helpful Tips, Salesforce, Marketing, Marketing Cloud, Small Businesses]
