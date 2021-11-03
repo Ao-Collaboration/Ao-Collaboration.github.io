@@ -6,7 +6,7 @@ seo-description: A Comprehensive guide on CX (Customer Experience), customer sat
 cover-img: assets/img/main-header.png
 thumbnail-img: assets/img/2021-11-02-measuring-thumbnail.jpg
 share-img: assets/img/2021-11-02-measuring-share.jpg
-tags: [Small Businesses, CSAT, Customer Satisfaction]
+tags: [Small Businesses, CSAT, NPS, CES, Data, Customer Satisfaction]
 ---
 
 ## It all starts with Customer Service
